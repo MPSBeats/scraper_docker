@@ -129,10 +129,10 @@ export default function Restaurants() {
       if (!url) return null
       // protocol-relative //example.com/image -> add https:
       if (url.startsWith('//')) return `https:${url}`
-      // relative path starting with / -> assume backend on same host (or localhost:3000 in dev)
+      // relative path starting with / -> assume backend
       if (url.startsWith('/')) {
-        const isVite = typeof window !== 'undefined' && window.location.port === '5173'
-        const apiBase = isVite ? 'http://localhost:3000' : ''
+        // Use environment variable if available (prod), else fallback to localhost (dev)
+        const apiBase = import.meta.env.VITE_API_URL || 'http://localhost:3000'
         return apiBase + url
       }
       return url

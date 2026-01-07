@@ -20,3 +20,11 @@ CREATE TABLE user_restaurant_status ( /* Table pour enregistrer les status entre
     PRIMARY KEY (user_id, restaurant_mongo_id)
 );
 
+/* Initial Seed Data */
+INSERT INTO roles (name) VALUES ('admin'), ('editor'), ('viewer') ON CONFLICT DO NOTHING;
+
+/* Admin User (Password: password123) - Using BCrypt hash placeholder for example */
+/* Note: In production, passwords should be properly hashed. This is a placeholder or dev hash */
+INSERT INTO users (lastname, firstname, email, password_hash, role_id) 
+VALUES ('Admin', 'User', 'admin@example.com', '$2b$10$YourHashedPasswordHere...', 1) 
+ON CONFLICT DO NOTHING;

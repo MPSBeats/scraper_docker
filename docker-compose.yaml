@@ -1,21 +1,22 @@
-version: '3.8'
-
 services:
   # Service Backend (API)
   backend:
     build: .
     container_name: orium_backend
     ports:
-      - "3000:3000"
+      - "${PORT:-3000}:3000"
+    env_file: .env
     environment:
-      - PORT=3000
-      - DATABASE_URL=postgresql://postgres:password@postgres:5432/orium_agence_scrapper_sql
-      - MONGO_URI=mongodb://mongo:27017/orium_agence_scrapper_nosql
-      - JWT_SECRET=xxx
-      - CORS_ALLOW_ALL=true
+      - PORT=${PORT:-3000}
+      - DATABASE_URL=${DATABASE_URL}
+      - MONGO_URI=${MONGO_URI}
+      - JWT_SECRET=${JWT_SECRET}
+      - CORS_ALLOW_ALL=${CORS_ALLOW_ALL:-false}
     depends_on:
-      - postgres
-      - mongo
+      postgres:
+        condition: service_healthy
+      mongo:
+        condition: service_healthy
     networks:
       - app-network
 
@@ -34,17 +35,24 @@ services:
   postgres:
     image: postgres:15-alpine
     container_name: orium_postgres
+    env_file: .env
     environment:
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=password
-      - POSTGRES_DB=orium_agence_scrapper_sql
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
     volumes:
       - postgres_data:/var/lib/postgresql/data
       - ./structure-bdd/bdd_sql.sql:/docker-entrypoint-initdb.d/init.sql # Import des données
     networks:
       - app-network
-    ports:
-      - "5432:5432"
+    # Ports removed for security (only internal access)
+    # ports:
+    #   - "5432:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
   # MongoDB
   mongo:
@@ -56,8 +64,14 @@ services:
       - ./structure-bdd/mongo-init.sh:/docker-entrypoint-initdb.d/init-mongo.sh # Script d'initialisation
     networks:
       - app-network
-    ports:
-      - "27017:27017"
+    # Ports removed for security (only internal access)
+    # ports:
+    #   - "27017:27017"
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
 # Réseaux
 networks:

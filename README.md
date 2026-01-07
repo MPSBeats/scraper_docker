@@ -134,10 +134,10 @@ Ce projet est entièrement conteneurisé. Vous pouvez lancer toute la stack (Fro
 ```mermaid
 graph TD
     User((Utilisateur))
-    Client[Conteneur Frontend\n(Nginx + React)\nPort 8080]
-    Backend[Conteneur Backend\n(Node.js API)\nPort 3000]
-    Postgres[(Conteneur PostgreSQL)]
-    Mongo[(Conteneur MongoDB)]
+    Client["Conteneur Frontend<br>(Nginx + React)<br>Port 8080"]
+    Backend["Conteneur Backend<br>(Node.js API)<br>Port 3000"]
+    Postgres[("Conteneur PostgreSQL")]
+    Mongo[("Conteneur MongoDB")]
     
     User -->|HTTP| Client
     Client -->|HTTP / API| Backend
