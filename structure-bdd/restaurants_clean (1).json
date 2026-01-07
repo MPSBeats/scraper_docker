@@ -1,0 +1,6298 @@
+[
+  {
+    "title":"Monalisa",
+    "address":"54 Rue du Val, 77160 Provins, France",
+    "website":"http:\/\/monalisa-provins.fr\/",
+    "phone":"+33 1 60 58 10 83",
+    "latitude":48.5609513,
+    "longitude":3.2960427,
+    "rating":4.6,
+    "reviews":122.0,
+    "type":"Italian restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzk8hLzWUOMPke3_wgru5sTD0vQVONH3UkgC3eLqWC4KINqIrtrWgA0A2CPLFeYsSiXhuPVjzTtibsmwU3ON3pOq0gQ7KyHnuHRvWcfbheI8CJGvk_XArTCwEEtCTo_QrBIkY4r=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":32.0,
+    "dataId":"0x47ef31e9e31022d1:0x9e53a000454a5329",
+    "placeId":"ChIJ0SIQ4-kx70cRKVNKRQCgU54",
+    "mainEmail":"monalisaprovins@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Logis Hostellerie le Châtel",
+    "address":"17 Av. du Général de Gaulle, 77370 Nangis, France",
+    "website":"https:\/\/www.logishotels.com\/fr\/hotel\/-2273",
+    "phone":"+33 1 64 08 22 50",
+    "latitude":48.5604287,
+    "longitude":3.0195152,
+    "rating":4.5,
+    "reviews":384.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipMnO3MNb2QlGqv4bHRgbjri38CJHBx4uKswTGMj=w163-h92-k-no",
+    "description":"Simple lodging in an 1850 mansion. Relaxed rooms & an airy restaurant in an 1850 mansion, plus gardens with a pond.",
+    "openState":null,
+    "serviceOptions":[
+
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47ef4ee2a6194bfb:0x45998b1d419bc409",
+    "placeId":"ChIJ-0sZpuJO70cRCcSbQR2LmUU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Rosalie",
+    "address":"7 Pl. Honoré de Balzac, 77160 Provins, France",
+    "website":"http:\/\/restaurantrosalie77.com\/",
+    "phone":"+33 1 60 67 62 10",
+    "latitude":48.5595817,
+    "longitude":3.2979549,
+    "rating":4.5,
+    "reviews":405.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPasBQHwMnEx_Tl9LavpwhIEH9fP5jsLmUv_7dI=w122-h92-k-no",
+    "description":"Stylish, relaxed option for French fare. Restaurant serving traditional French cuisine in a stylish space with a relaxed vibe.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47ef31afd62228d3:0x24d2b08d3d627f95",
+    "placeId":"ChIJ0ygi1q8x70cRlX9iPY2w0iQ",
+    "mainEmail":"rosalie.77@orange.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant La Bodega Melun",
+    "address":"18 Quai Hippolyte Rossignol, 77000 Melun, France",
+    "website":"https:\/\/bodega-melun.fr\/",
+    "phone":"+33 1 64 37 10 57",
+    "latitude":48.5354367,
+    "longitude":2.6557165,
+    "rating":4.7,
+    "reviews":1001.0,
+    "type":"Spanish restaurant",
+    "price":"$$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzIaxe9mwgob7xWFYdqCF6WOKV2KU1OUvy6ssy2IiQEhWH5Qxk1kJnR4OohM_Ujh_U7yJXjln3Zhk_guU4ey7HeDwys2bubGCfVWWtWIEy5bbUJqq0yrHOzsBj7Vh0gpXDYv6I=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47e5fa7c546574d7:0xb0243a31d434dcd7",
+    "placeId":"ChIJ13RlVHz65UcR19w01DE6JLA",
+    "mainEmail":"contact@bodega-melun.fr",
+    "otherEmails":[
+      "restaurantlabodega@hotmail.fr"
+    ]
+  },
+  {
+    "title":"Del Arte",
+    "address":"Bd Jean Monnet, 91080 Courcouronnes, France",
+    "website":"https:\/\/www.delarte.fr\/store-finder\/152001",
+    "phone":"+33 1 60 78 24 47",
+    "latitude":48.6153845,
+    "longitude":2.4241897,
+    "rating":3.8,
+    "reviews":1617.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOmWdq3CLxLX6Q3j4VSDH_bliubX8CFC8GkCddo=w135-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":15.0,
+    "dataId":"0x47e5de0cf7ba5fff:0xe6df4330c895a48d",
+    "placeId":"ChIJ_1-69wze5UcRjaSVyDBD3-Y",
+    "mainEmail":"rennes-alma@delarte.fr",
+    "otherEmails":[
+      "bdfrrennbastard@groupeleduff.com"
+    ]
+  },
+  {
+    "title":"ASIAN KITCHEN",
+    "address":"Centre commercial, All. de plein Ciel, 77350 Le Mée-sur-Seine, France",
+    "website":"https:\/\/www.asiankitchen-melun.fr\/",
+    "phone":"+33 9 83 83 21 40",
+    "latitude":48.5480392,
+    "longitude":2.6444528,
+    "rating":4.7,
+    "reviews":109.0,
+    "type":"Wok restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOdCFhz-kVQ-raRtSjAIs6fZuewgDL1QsLxUOQ=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e5fbda8d56cfd5:0xaea9dfcdd74a415",
+    "placeId":"ChIJ1c9Wjdr75UcRFaR03fyd6go",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Baan Thai 88",
+    "address":"33 Av. du Général de Gaulle, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/baanthai88.fr\/",
+    "phone":"+33 1 64 16 43 98",
+    "latitude":48.7066667,
+    "longitude":2.8678161,
+    "rating":4.6,
+    "reviews":233.0,
+    "type":"Thai restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipO9l1DeN8UteU00kcyKQ_w_f0N_Msl-Xdek0l4b=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":5.0,
+    "dataId":"0x47e8ab1a4d8a24d5:0x1b77723bf82e7e9c",
+    "placeId":"ChIJ1SSKTRqr6EcRnH4u-Dtydxs",
+    "mainEmail":"88baanthai@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Lounge Bar Aux Vieux Remparts",
+    "address":"3 Rue Couverte, 77160 Provins, France",
+    "website":"https:\/\/www.auxvieuxremparts.com\/fr\/lounge-bar\/lounge-bar-des-remparts.html",
+    "phone":"+33 1 64 08 94 00",
+    "latitude":48.5625442,
+    "longitude":3.2872307,
+    "rating":4.7,
+    "reviews":39.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNf8ZD0f3-jYruFG4Vx1akQxmRKAr48DNHO77jQ=w137-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":17.0,
+    "dataId":"0x47ef310bd7cf0cd7:0x3ece0fe476a89117",
+    "placeId":"ChIJ1wzP1wsx70cRF5GoduQPzj4",
+    "mainEmail":"info@auxvieuxremparts.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Jardin Provençal",
+    "address":"89 Rue Fbg Saint-Nicolas, 77100 Meaux, France",
+    "website":"http:\/\/le-jardin-provencal-meaux.lany.io\/",
+    "phone":"+33 1 60 44 22 16",
+    "latitude":48.9579837,
+    "longitude":2.8900696,
+    "rating":4.6,
+    "reviews":275.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwfvAxiZ1_Enauf7W3i8AbGWvX8Dds0fzRs6vwanOmIdEHkGA31sGD1QM2ispPXjWF0jfvQIwVyN1VJGQbhcVuMSL2GanrVU27CkzOG03x-oUqYVEuksWtrma0je-G_PRhlwBs1Yg=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47e8a10eede54ad9:0xceab84c903a9c687",
+    "placeId":"ChIJ2Url7Q6h6EcRh8apA8mEq84",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"YUME SUSHI",
+    "address":"45 Rue Bertaux, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/mylightspeed.app\/YZRTFTVC\/C-ordering",
+    "phone":"+33 1 64 16 01 00",
+    "latitude":48.7070248,
+    "longitude":2.8628639,
+    "rating":4.7,
+    "reviews":120.0,
+    "type":"Japanese restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzU9KkX7jCTqEiX6sSKIPQdqqsb7pX0VnkM4YofcMUKOcYJ-yMdXSfHJvoD29ZF3YOqERiuH0xQB0MWNYMOywe3S8mkkua87irULq8mIcihK7JdwyMrvf-d6KAtprFJeNluFgJSLg=w80-h109-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":6.0,
+    "dataId":"0x47e8ab473d766cd9:0xd9de4c865173acf0",
+    "placeId":"ChIJ2Wx2PUer6EcR8KxzUYZM3tk",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Vraie Joie",
+    "address":"13 Rue de la Friperie, 77160 Provins, France",
+    "website":"https:\/\/frmapsy.com\/business\/la-vraie-joie-bG890cGk",
+    "phone":"+33 9 83 77 88 76",
+    "latitude":48.559992,
+    "longitude":3.2997697,
+    "rating":4.4,
+    "reviews":34.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPUsciSiRkBqwAnlPro77C7NnIrBtZ-kSN2rlB-=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":34.0,
+    "dataId":"0x47ef312a907a71d9:0x697074cf1b5b8fed",
+    "placeId":"ChIJ2XF6kCox70cR7Y9bG890cGk",
+    "mainEmail":"hello@mapszi.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Les Rupins",
+    "address":"35 Bd de Magenta, 75010 Paris, France",
+    "website":"http:\/\/www.lesrupins.fr\/",
+    "phone":"+33 1 53 19 97 04",
+    "latitude":48.8718847,
+    "longitude":2.3596954,
+    "rating":4.6,
+    "reviews":3583.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipM2f8IF8qM02HmBDT1LvdrqOmXTJgTAXLbWlTLt=w122-h92-k-no",
+    "description":"Modest option for classic European meals. Down-to-earth venue serving standard European fare including burgers, tartare, gazpacho & lasagna.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":21.0,
+    "dataId":"0x47e66e0dcceccfdf:0x940a5b08e04a96b5",
+    "placeId":"ChIJ38_szA1u5kcRtZZK4AhbCpQ",
+    "mainEmail":"lesrupins.event@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Cyclamen",
+    "address":"4 Rue du Miroir, 77000 Melun, France",
+    "website":"https:\/\/le-cyclamen.eatbu.com\/",
+    "phone":"+33 9 77 81 53 32",
+    "latitude":48.5392902,
+    "longitude":2.6589899,
+    "rating":4.8,
+    "reviews":318.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxtYQjaZTERy-t1BlA70mzIyfmwky1fbUWBRv4MBAyZ6fK6EqdQL8cpEQ615YwsGjo4Ftuh0-Wd0pWKCZtcWLg9qHi_I6oICKYg9lyyD_z_cgBmVisEmlGsF_MGRpaDnu7rUYLe=w204-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":15.0,
+    "dataId":"0x47e5fbb095fac8dd:0xf57b9c5bbf9cdb7a",
+    "placeId":"ChIJ3cj6lbD75UcRetucv1uce_U",
+    "mainEmail":"claude-abboud@hotmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Palais Marocain",
+    "address":"72 Av. de Strasbourg, 77120 Coulommiers, France",
+    "website":"https:\/\/lepalaismarocain.eatbu.com\/",
+    "phone":"+33 1 64 82 44 25",
+    "latitude":48.8017072,
+    "longitude":3.0862674,
+    "rating":4.1,
+    "reviews":335.0,
+    "type":"Moroccan restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/streetviewpixels-pa.googleapis.com\/v1\/thumbnail?panoid=HWvqxVc74aNXdVDTntHQMw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=242.36803&pitch=0&thumbfov=100",
+    "description":null,
+    "openState":"Temporarily closed",
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "sfiha restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":null,
+    "dataId":"0x47e8b0d4cd5158dd:0xa1f38b241106a0c9",
+    "placeId":"ChIJ3VhRzdSw6EcRyaAGESSL86E",
+    "mainEmail":"nc@nc.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Au Bureau - Pub et Brasserie",
+    "address":"75 Av. de la Foulée, 77100 Nanteuil-lès-Meaux, France",
+    "website":"https:\/\/www.aubureau.fr\/restaurant-brasserie\/au-bureau-nanteuil",
+    "phone":"+33 1 60 22 34 68",
+    "latitude":48.9418869,
+    "longitude":2.8806061,
+    "rating":4.6,
+    "reviews":2939.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwt82Nz3NGcqxPxw0Zg139fhHhwtbs0EB-UzZU0A652puGNkc-A5waTMzokcPsAIpGAcn9a2rN29vxI5suB6JpNUzJDrTbO2X3_E1VvvWy_oM5bTkdxtyYNxVlH8PHW8rzOh5812A=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47e8a1d8d6ee55dd:0x52b1a01108939cee",
+    "placeId":"ChIJ3VXu1tih6EcR7pyTCBGgsVI",
+    "mainEmail":"aubureau.nanteuil@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Appart",
+    "address":"37-39 Rue du Val, 77160 Provins, France",
+    "website":"https:\/\/www.appartevents.fr\/",
+    "phone":"+33 1 64 08 32 91",
+    "latitude":48.560712,
+    "longitude":3.2966712,
+    "rating":4.6,
+    "reviews":366.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyajYD1faO00B2oaKzB3RwsmdzHKTyUFfKjucH1XbIXCrKlASlNvivsOwrYJEneK6WyCAMkQUerkDzDeVAmppy6xtZveAkcVxG93FsFX4vNNJdUCIoR8K3MAYMMUueJqz0Y2I2W=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47ef31afeb4966dd:0xdb209998ef3e819f",
+    "placeId":"ChIJ3WZJ668x70cRn4E-75iZINs",
+    "mainEmail":"appartevents@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Saint Pierre",
+    "address":"34 Rue de l'Orgeval, 77120 Coulommiers, France",
+    "website":"https:\/\/www.restaurantlesaintpierre.fr\/",
+    "phone":"+33 1 64 03 92 56",
+    "latitude":48.8011474,
+    "longitude":3.0945448,
+    "rating":4.5,
+    "reviews":355.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxC0FyEx6bCiYsL5rrvPVbRX5XFxkcy-WhFKi-Q2mtGghRiKtc5hDxb73YMysU6dDY2AQA_GqS55O9JCzJLFO8NRsNV0GQtiUDKe3Zk8b8AyvhALCMbTdlfSVNy_g4DdLGpEjP7=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47e8b7291db98dfb:0x5ebffa29cdef330",
+    "placeId":"ChIJ-425HSm36EcRMPPenKL_6wU",
+    "mainEmail":"le.saint.pierre@hotmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Au Temps Jadis",
+    "address":"15 Pl. Jean Jaurès, 77140 Nemours, France",
+    "website":"https:\/\/au-temps-jadis.eatbu.com\/",
+    "phone":"+33 9 54 27 20 64",
+    "latitude":48.264903,
+    "longitude":2.6955782,
+    "rating":4.8,
+    "reviews":143.0,
+    "type":"French restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSz4pLzy4VsN0adW8fnMYjleAVmMtfkRos0TsBjR7meuWCumNbjgiUiXEOiFC0WCt98Y2ooeKervjhVjt5C2swijh85OZuyZy8swH2J_ebHzZljT1rNF4irjOPryueCA6yQ8H9GCUA=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e5890055e37be3:0xe8d4eac804068cd7",
+    "placeId":"ChIJ43vjVQCJ5UcR14wGBMjq1Og",
+    "mainEmail":"autempsjadis77@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Grande Muraille",
+    "address":"9 Bd de l'Europe-Valéry Giscard d'Estaing, 91000 Évry, France",
+    "website":"http:\/\/grandemuraillevry.com\/",
+    "phone":"+33 1 60 79 26 80",
+    "latitude":48.6304173,
+    "longitude":2.430042,
+    "rating":3.9,
+    "reviews":229.0,
+    "type":"Chinese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxAZYH72rSx73UxlNy-L8Wot3arKxAHO_9M3cYEe0TsW-Es48qmagiG95iXRvEmgyvK-x0K8b8O9Oc_oGRR5J8nG_7-1YR63lLoKRRo4E4H-Ej0WHjD0k3Jql9mr6Zt_L5ZVJnQ=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47e5de191bfe8efb:0xcec5257cc7bdaf47",
+    "placeId":"ChIJ-47-Gxne5UcRR6-9x3wlxc4",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Amoureux de briyanaan",
+    "address":"10 Bd Victor Hugo, 77000 Melun, France",
+    "website":"https:\/\/www.amoureux-de-briyanaan-restaurant-indien-melun.fr\/",
+    "phone":"+33 7 63 49 88 06",
+    "latitude":48.5386642,
+    "longitude":2.6576306,
+    "rating":4.7,
+    "reviews":287.0,
+    "type":"South Indian restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNahb0ZEnSbWkmvIredzNEL5c9jndJgj1un5RxR=w80-h99-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47e5fb13203ddfe3:0xa9c5018e4b7b5d9b",
+    "placeId":"ChIJ4989IBP75UcRm117S44Bxak",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Parvis",
+    "address":"5 Rue Saint-Rémy, 77100 Meaux, France",
+    "website":"https:\/\/restaurant-leparvis.com\/",
+    "phone":"+33 1 64 34 54 35",
+    "latitude":48.9598904,
+    "longitude":2.8778814,
+    "rating":4.6,
+    "reviews":647.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOaljdqIgwuMMNbhqVvxzu-vUfMpSDhC3Iinpsu=w80-h100-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":7.0,
+    "dataId":"0x47e8a18742ce34e1:0x340e5efb00aca57e",
+    "placeId":"ChIJ4TTOQoeh6EcRfqWsAPteDjQ",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Toutouccino",
+    "address":"67 Rue Fbg Saint-Nicolas, 77100 Meaux, France",
+    "website":"http:\/\/toutouccino.eatbu.com\/",
+    "phone":"+33 6 03 00 61 57",
+    "latitude":48.9581835,
+    "longitude":2.8887652,
+    "rating":4.9,
+    "reviews":213.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPebrR3-MQsidrskpBFYetCDrn9ZIPDp5NDUZeG=w137-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":9.0,
+    "dataId":"0x47e8a1f9f8d08fe1:0x79fe9e4758a8b53c",
+    "placeId":"ChIJ4Y_Q-Pmh6EcRPLWoWEee_nk",
+    "mainEmail":"toutouccino@gmail.com",
+    "otherEmails":[
+      "toutouccino@gmail.om"
+    ]
+  },
+  {
+    "title":"La Toile Du Chef",
+    "address":"23 Rue Fbg Saint-Nicolas, 77100 Meaux, France",
+    "website":"http:\/\/www.latoileduchef.fr\/",
+    "phone":"+33 1 64 33 92 36",
+    "latitude":48.9585982,
+    "longitude":2.8862043,
+    "rating":4.8,
+    "reviews":1012.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyfP-MrtCuuG3x9k44ouQwSNqWluM7fZi-HZMsD5LOPJsMfsFO1vZ6oRai_PPip-BIjJhE6Xs03YgfHqyk8mt3FiKncq-ZAVV935X9uokemhTmEeLUw6yDm4CwmLmYHY-w8-OQn=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e8a10f5febede7:0x155fbe7a877861cf",
+    "placeId":"ChIJ5-3rXw-h6EcRz2F4h3q-XxU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Pavillon Hugo Maison Étape",
+    "address":"1 Quai Victor Hugo, 77140 Nemours, France",
+    "website":"http:\/\/pavillon-hugo-restaurant-h-tel.com.es\/",
+    "phone":"+33 9 86 57 94 86",
+    "latitude":48.2633979,
+    "longitude":2.6942503,
+    "rating":4.3,
+    "reviews":79.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwRVsQpLHyvHgEUkcw36jlyUhAcca2Dyi0tj4I7Rp_4XbGVM4Na7Nb5JZV_aSBFqCJq-aisIu7bc5ZaA7K53_uqY9x_46G_ViA_cRHxkzDnZBuhEHiinz6HDBe6EyghulDcq-cH=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47e5890ccf5ddae7:0x35791e17f2cf2605",
+    "placeId":"ChIJ59pdzwyJ5UcRBSbP8hceeTU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Piscine Restaurant",
+    "address":"64 Quai Maréchal Joffre, 77000 Melun, France",
+    "website":"http:\/\/lapiscinerestaurantmelun.com\/",
+    "phone":"+33 1 60 99 00 79",
+    "latitude":48.5266189,
+    "longitude":2.6676659,
+    "rating":4.7,
+    "reviews":1331.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxe-4NADMl0v3FyTJ8a5BVQr1K-t0Wb11f-J1-i6BIjZKo_LslewbCphvlmH3Oq8X2QU_fpDm-J2JkOCYXhBhNCiK76Eke0I7_afMj5j2LQqJBpQETS1wm81S2U8kjXm1VVRqIv=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e5f1a3fc0c97fb:0xe76d1cf8722dd68e",
+    "placeId":"ChIJ-5cM_KPx5UcRjtYtcvgcbec",
+    "mainEmail":"odetteregale@gmail.com",
+    "otherEmails":[
+      "privatisationlapiscine@gmail.com"
+    ]
+  },
+  {
+    "title":"Restaurant du Champ de Mars",
+    "address":"16 Av. de la Victoire, 77100 Meaux, France",
+    "website":"https:\/\/www.restaurantduchampdemars.fr\/",
+    "phone":"+33 1 64 34 15 15",
+    "latitude":48.956443,
+    "longitude":2.906041,
+    "rating":4.7,
+    "reviews":708.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxsl38TNy3kEHmbIrEIun4JUWssciShB7URYrJhCxsUgs9gnVrrTfqwOPcFmAeBJ_yzrafH_sZ0RwZC1wu5Q30pd1pMYoOkZQSNVDAIaIBH6zPtCygKghwkTqEG9spkgFQ-HPYC=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":7.0,
+    "dataId":"0x47e8a171aeb0fbe9:0x7f5dd26930b631fe",
+    "placeId":"ChIJ6fuwrnGh6EcR_jG2MGnSXX8",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Table Saint Just devient RMANA",
+    "address":"11 Rue de la Libération, 77000 Vaux-le-Pénil, France",
+    "website":"https:\/\/www.rmana.fr\/",
+    "phone":"+33 1 64 52 09 09",
+    "latitude":48.5328573,
+    "longitude":2.6728793,
+    "rating":4.7,
+    "reviews":482.0,
+    "type":"French restaurant",
+    "price":"$$$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzsyhfqh0HzOIpAyBJ-XobXXxQamtMLHXC10qtk-lHmbZnq1bwzsU8p9WuaTTVK_dYY3BTHna_fb5tCvKziBKvfhnmEleIjDTV6SO2jnwd_9Htd_VHFXzLjVNxCdmrhoDIh2RW7=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "hungarian restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47e5fa737fbbcdef:0x95dfaa62f08f08b5",
+    "placeId":"ChIJ7827f3P65UcRtQiP8GKq35U",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Pizzeria Pasta Nova",
+    "address":"16 Rue Eugène Thoison, 77140 Nemours, France",
+    "website":"http:\/\/pasta-nova.fr\/",
+    "phone":"+33 1 64 29 37 65",
+    "latitude":48.2691576,
+    "longitude":2.7076166,
+    "rating":3.8,
+    "reviews":237.0,
+    "type":"Pizza restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPbbQ2yASAlSYYKyeO5b7ZBObUqE9dLVPYwFGCX=w80-h173-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":47.0,
+    "dataId":"0x47e589154c18fcef:0xbcd1dd158c1d4dee",
+    "placeId":"ChIJ7_wYTBWJ5UcR7k0djBXd0bw",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Pinsa Romana Restaurant Italien",
+    "address":"50 Rue Fbg Saint-Nicolas, 77100 Meaux, France",
+    "website":"https:\/\/www.pinsaromana-restaurant.fr\/",
+    "phone":"+33 1 78 71 28 37",
+    "latitude":48.9582489,
+    "longitude":2.8871304,
+    "rating":4.8,
+    "reviews":491.0,
+    "type":"Italian restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSw4lYf499iYZNlcD2bGDCN47vQEhAoHN4H8i8XKmnYWuNiZsB3Cfe57ZYeqOUWYwpRDA7kC7TebB7W_pzNrJtBfL4DZgDEXfQ1qTqlPxasmVCL00cDF2vCnPdqslTdXNNpeCOE4=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47e8a1a593cfddf3:0x813c50b4244754d7",
+    "placeId":"ChIJ893Pk6Wh6EcR11RHJLRQPIE",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Sushi 81",
+    "address":"12 Rue Gaston Darley, 77140 Nemours, France",
+    "website":"https:\/\/sushi81.hiboutik.com\/food\/",
+    "phone":"+33 7 56 13 33 89",
+    "latitude":48.2662773,
+    "longitude":2.6970095,
+    "rating":4.6,
+    "reviews":85.0,
+    "type":"Japanese restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxUnH50IXVzB6d3c_DtO6YkNRqJYtu4eBbV7HNXDrQu91ytqKsssaY_xYw-nfM3taigxItvzFVDZKVqkyHe0kIp6i9wI-Dv6NSaHDtJLzyXgdHt36-trIOCTyiIRUy4j42ZCLEK=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in",
+      "Onsite services"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":26.0,
+    "dataId":"0x47e589656a65c5f1:0xe47e961fd812923c",
+    "placeId":"ChIJ8cVlamWJ5UcRPJIS2B-WfuQ",
+    "mainEmail":"sushi81.spln@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Cure D'Air",
+    "address":"54 Av. du Général de Gaulle, 77160 Provins, France",
+    "website":"https:\/\/www.facebook.com\/profile.php",
+    "phone":"+33 1 60 58 02 87",
+    "latitude":48.5595376,
+    "longitude":3.2811078,
+    "rating":4.3,
+    "reviews":374.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxE9FBh0M45H76UyrToe6csIH5xDqVx8XCLxTwOnjh_KZVOWZzsO7IVQXtiVhW6eu7P_bAFqEQ2SKhfX5UJ1d2_rOKVj8Ez9v0F6O-v-MdbF8JJQT5c15Qi9sLWRx4KiZ9PEWF-Pg=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":17.0,
+    "dataId":"0x47ef31042be9e1f3:0x6b3d3b3d9c5b0bb2",
+    "placeId":"ChIJ8-HpKwQx70cRsgtbnD07PWs",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Wafu",
+    "address":"1 Rue de la Closerie, 91090 Lisses, France",
+    "website":"http:\/\/www.wafu.fr\/",
+    "phone":"+33 1 64 97 00 59",
+    "latitude":48.594056,
+    "longitude":2.4376338,
+    "rating":4.1,
+    "reviews":1864.0,
+    "type":"Buffet restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSz3DiKGj8Q4KmjF-k3YHSCXUq7qdYrMf9bV50AOB1BHTemcV3tomc-WVzxXaHluMB2gQ_VsQFips4aF-_rjWuqpeCeFBeA4a4Crcu9vEs75SLtexp11z-Ig-I-k35SbV7BmW3T4=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":5.0,
+    "dataId":"0x47e5e75e429080f1:0x5876b29e03bbafa5",
+    "placeId":"ChIJ8YCQQl7n5UcRpa-7A56ydlg",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"King Of Thai Nemours",
+    "address":"22 Pl. Jean Jaurès, 77140 Nemours, France",
+    "website":"https:\/\/xn--kingoftha-85a.com\/nemours\/",
+    "phone":"+33 1 60 55 82 31",
+    "latitude":48.264976,
+    "longitude":2.6950071,
+    "rating":4.5,
+    "reviews":136.0,
+    "type":"Thai restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPQodRFHt4T7vnmlByxkudabeIl4JrC9WSWh7Mw=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e589bfcc1ea6f5:0x1b45a5d7c01286dd",
+    "placeId":"ChIJ9aYezL-J5UcR3YYSwNelRRs",
+    "mainEmail":"kingofthaisens@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Bistrot Aux Vieux Remparts",
+    "address":"3 Rue Couverte, 77160 Provins, France",
+    "website":"https:\/\/www.auxvieuxremparts.com\/fr\/restaurant\/bistrot-des-remparts.html",
+    "phone":"+33 1 64 08 97 00",
+    "latitude":48.5625442,
+    "longitude":3.2872307,
+    "rating":4.3,
+    "reviews":192.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPxhR0SM9__m4fh3LdECOCdqs0gnTyPQ-jkx7Co=w138-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47ef31035efe0ff5:0x8c5b4a81255bd895",
+    "placeId":"ChIJ9Q_-XgMx70cRldhbJYFKW4w",
+    "mainEmail":"info@auxvieuxremparts.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant Le Chatel",
+    "address":"17 Av. du Général de Gaulle, 77370 Nangis, France",
+    "website":"https:\/\/www.lechatel.eu\/restaurant-menus-hotel-nangis",
+    "phone":"+33 1 64 08 22 50",
+    "latitude":48.5604002,
+    "longitude":3.0193977,
+    "rating":4.6,
+    "reviews":117.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxxFWQcMdioZQPN2NPksvcs4i1xK3UROYVg_v-mdgr7LH2S8mVPZn2jM32hEsgRZKYE1Q_X8QyTy-xun2ziCH-hFidVe8zq784OgWbt1BoSn_2KPIzmjxzBWbHqmEpybPHbEEDOjA=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47ef4f1fc6b729f5:0xdb58a3d7a735950d",
+    "placeId":"ChIJ9Sm3xh9P70cRDZU1p9ejWNs",
+    "mainEmail":"info@lechatel.eu",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Royal Melun",
+    "address":"11 Av. du Général Patton, 77000 Melun, France",
+    "website":"https:\/\/royalmelun.fr\/",
+    "phone":"+33 1 60 68 89 89",
+    "latitude":48.547656,
+    "longitude":2.648882,
+    "rating":4.1,
+    "reviews":1531.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipMuC2VuU_aqL0SvBbAK2qE5tdVcJwfEcXLL6msy=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47e5fa8b4016b803:0xce11dd011ad7bf91",
+    "placeId":"ChIJA7gWQIv65UcRkb_XGgHdEc4",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Pho G3",
+    "address":"12 Pl. Jules Vallès, 91000 Évry-Courcouronnes, France",
+    "website":"http:\/\/phog3.com\/",
+    "phone":"+33 1 60 77 37 61",
+    "latitude":48.6356203,
+    "longitude":2.4293455,
+    "rating":4.6,
+    "reviews":296.0,
+    "type":"Vietnamese restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxHY4Gwt6h_StqF6uVBoGVDWybonkNbWx4iKoY7rkytXsml9fuVeqeLzgUMhKb243oh-GkZ4y1CW7haoJG5Tp6JlQoaimacOXQBuH-GLIdsMNiCxnD4mmkmjivRN-UxrrRoZzThPA=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e5de22fc21bc69:0x9eef5816b79d4a4f",
+    "placeId":"ChIJabwh_CLe5UcRT0qdtxZY754",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Atelier Artisan Crêpier - Evry 2",
+    "address":"le spot, 2 Bd de l'Europe-Valéry Giscard d'Estaing, 91000 Évry-Courcouronnes, France",
+    "website":"https:\/\/www.artisancrepier.com\/",
+    "phone":"+33 1 60 78 16 29",
+    "latitude":48.6291332,
+    "longitude":2.4287667,
+    "rating":4.2,
+    "reviews":407.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOuDZ2iS9469XEBYU71i4zCuZsEtl5mz1TiVESy=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":9.0,
+    "dataId":"0x47e5dfd635f2d601:0xc6ebb651df9f626a",
+    "placeId":"ChIJAdbyNdbf5UcRamKf31G268Y",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Chardon",
+    "address":"27 Rue Bouchardon, 75010 Paris, France",
+    "website":"https:\/\/www.restaurantlechardon.com\/",
+    "phone":"+33 9 72 80 50 83",
+    "latitude":48.8711209,
+    "longitude":2.3579902,
+    "rating":4.4,
+    "reviews":626.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipMWvEYS1DzFdsXhqJa3Igi2UIibeIu3x9czdoTg=w138-h92-k-no",
+    "description":"Relaxed bistro for diverse fare & wine. Classic eatery with a terrace serving creative small plates, mains & desserts, plus natural wines.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47e66fd5d4f3ea6b:0x77174177758ef005",
+    "placeId":"ChIJa-rz1NVv5kcRBfCOdXdBF3c",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Rapido Pizza",
+    "address":"10 Rue Aristide Briand, 77370 Nangis, France",
+    "website":"https:\/\/rapidopizzanangis.fr\/",
+    "phone":"+33 1 64 00 55 85",
+    "latitude":48.5571424,
+    "longitude":3.0137677,
+    "rating":4.1,
+    "reviews":250.0,
+    "type":"Pizza restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipM4LUCG8lJamTymJMBdOn0argFMXyO5tZUAdqVU=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":15.0,
+    "dataId":"0x47ef4faa8997a4fd:0x14c43c0ce858f2c4",
+    "placeId":"ChIJ_aSXiapP70cRxPJY6Aw8xBQ",
+    "mainEmail":"rapidopizzanangis@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Mr Bistrot",
+    "address":"23 Av. du Général de Gaulle, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/mrbistrot.com\/",
+    "phone":"+33 9 82 71 30 01",
+    "latitude":48.7067441,
+    "longitude":2.8686904,
+    "rating":4.9,
+    "reviews":137.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyzHstukKxtYLX5Nf1PJVCR2H9uBu71sgH6kQpxcZL-iziH1-EkU7JOmVb9OYxvX_0jGtVdvbSsTFEBgebxT0V0Qt-fU8TQhQJdn1vVPaxthaVJx6v63ghriNzRzh7kOX22UNI=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47e8ab0709394401:0x280cce9909c7ef2c",
+    "placeId":"ChIJAUQ5CQer6EcRLO_HCZnODCg",
+    "mainEmail":"contact@mrbistrot.com",
+    "otherEmails":[
+      "notifications@surecart.com"
+    ]
+  },
+  {
+    "title":"CHEZ LOULOU",
+    "address":"1 Av. Thiers, 77000 Melun, France",
+    "website":"http:\/\/chez-loulou-melun.eatbu.com\/",
+    "phone":"+33 9 55 31 06 21",
+    "latitude":48.5325436,
+    "longitude":2.6564345,
+    "rating":4.5,
+    "reviews":137.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyhq9MaZSZesGSe0HSnHgJReWT2CQJYvTWUd2SLWbhUJL6p4QKEDBbXBVzOr7lGtHzcc0rSw-j4hQylK_7zsAZMAjEAxAEna073Mk2sPTvehl5jOcvljkCyvUXZyBgonSh8fZ2TMQ=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47e5fb1ab05bacfd:0x5053ba9807fe29dd",
+    "placeId":"ChIJ_axbsBr75UcR3Sn-B5i6U1A",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Ô’JAP Melun \/ Jap&Thaï",
+    "address":"3 Rue Rosa Bonheur, 77000 Melun, France",
+    "website":"https:\/\/www.instagram.com\/ojap77",
+    "phone":"+33 9 84 10 03 34",
+    "latitude":48.5260541,
+    "longitude":2.6539426,
+    "rating":4.6,
+    "reviews":412.0,
+    "type":"Japanese restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOYWIa4Yh_P1ZsHks0KWHdsNTZG_xV12pDthqQS=w80-h98-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47e5f1896aa58d07:0xf2d502a9b10456a5",
+    "placeId":"ChIJB42laonx5UcRpVYEsakC1fI",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"C Comme Ça",
+    "address":"30 Pl. du Marché, 77100 Meaux, France",
+    "website":"https:\/\/soheil-1.jimdosite.com\/",
+    "phone":"+33 1 60 61 07 35",
+    "latitude":48.955791,
+    "longitude":2.878499,
+    "rating":4.4,
+    "reviews":940.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSykDq8WfXms87x01sQ6wPfRB0lblTo3WWV-zz38fXs6bNwl9UZwUpX9OW_tU-ZpBGS2_4zRhBlcqyVDCov01EVS0Mv4pgn52pqLScVWRATfa_WURGCWsOeN03IWUVILaiFHWouIlQ=w80-h142-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":6.0,
+    "dataId":"0x47e8a1034761a807:0x4e031179c7c2089c",
+    "placeId":"ChIJB6hhRwOh6EcRnAjCx3kRA04",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Bosphore",
+    "address":"72 Rue de Paris, 77140 Nemours, France",
+    "website":null,
+    "phone":"+33 1 64 28 91 87",
+    "latitude":48.2672222,
+    "longitude":2.6933333,
+    "rating":4.0,
+    "reviews":418.0,
+    "type":"Turkish restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/streetviewpixels-pa.googleapis.com\/v1\/thumbnail?panoid=HHjrZsMXx9LQUUvHGJMLUg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=48.8403&pitch=0&thumbfov=100",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "sfiha restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":null,
+    "dataId":"0x47e5893ff23aa305:0x7a0051737ea04f6b",
+    "placeId":"ChIJBaM68j-J5UcRa0-gfnNRAHo",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"MA.SU Nemours",
+    "address":"66 Rue de Paris, 77140 Nemours, France",
+    "website":"https:\/\/masu-nemours.fr\/",
+    "phone":"+33 1 64 29 70 28",
+    "latitude":48.2672088,
+    "longitude":2.6937084,
+    "rating":4.3,
+    "reviews":600.0,
+    "type":"Sushi restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOR5HaCj6_Pgsx-uf3yxYomUfUwXgh__0PU7rjd=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e5893ff09cb505:0xff58b00ec1ec1ddb",
+    "placeId":"ChIJBbWc8D-J5UcR2x3swQ6wWP8",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'escapade",
+    "address":"36 Rue du Tan, 77100 Meaux, France",
+    "website":"https:\/\/escapademeaux.wixsite.com\/bobun",
+    "phone":"+33 1 64 34 20 33",
+    "latitude":48.9582188,
+    "longitude":2.8811849,
+    "rating":4.5,
+    "reviews":262.0,
+    "type":"Vietnamese restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSy9T1pRZUJ533LFcq1aJkS_k_rIcIGvWW5bUbDtcK3MPl2yxUhp8pfgvJ_WyijjIs-yfkky0nT7kWzIqMW7cntBOjvox_ZHcR8T-_Pt5B7ryAWiWnbqNTBZxLWHdgh69kmPWD604A=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":12.0,
+    "dataId":"0x47e8a10471d9c96d:0x33ea494e26a25814",
+    "placeId":"ChIJbcnZcQSh6EcRFFiiJk5J6jM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Caibotin Restaurant",
+    "address":"1547 Rte du Clos Bourdin, 77120 Chailly-en-Brie, France",
+    "website":"https:\/\/www.caibotin.fr\/",
+    "phone":"+33 1 64 03 58 04",
+    "latitude":48.8089888,
+    "longitude":3.112393,
+    "rating":4.7,
+    "reviews":218.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOfXibqFttXoTLCwQnl2WzBQ6Ze6gTQLhGzfk3c=w138-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":33.0,
+    "dataId":"0x47e8b7dceab4ed6d:0xf5720d97efee9ba0",
+    "placeId":"ChIJbe206ty36EcRoJvu75cNcvU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Chez Barbara",
+    "address":"47 Rue Washington, 75008 Paris, France",
+    "website":"https:\/\/chez-barbara-paris-8.fr\/",
+    "phone":"+33 1 77 15 29 23",
+    "latitude":48.8743143,
+    "longitude":2.3046259,
+    "rating":4.3,
+    "reviews":326.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSx2kUaM_OgjTGX4UaA8bemwbtT2BpaF2IvFgv9Abnoz6qnzI5pZjAzNiZowbUla_8W86_e_ZPO07MugCAGeySHBnAj3ZW33IR0AApqTFIVevAD7l-2MuPE0gPCYa4jzKcIIh4Q=w113-h92-k-no",
+    "description":"Classic fare in a casual bistro. Unassuming outfit serving escargot, beef bourguignon & other traditional offerings.",
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e66fc11b5eec05:0xab458ae2ce3c01a3",
+    "placeId":"ChIJBexeG8Fv5kcRowE8zuKKRas",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Tarsa Grill",
+    "address":"Centre de Loisirs Bay, 1 Prom. du 7e Art, 77200 Torcy, France",
+    "website":null,
+    "phone":"+33 1 60 17 38 11",
+    "latitude":48.8407148,
+    "longitude":2.6540736,
+    "rating":4.3,
+    "reviews":1527.0,
+    "type":"Turkish restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipMBC7dmX3SaaRcKtabSSuOsRNz5MKPMJbTaZzFS=w360-h480-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "sfiha restaurant in Torcy",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":null,
+    "dataId":"0x47e61baad683126d:0xa8a960aa81884848",
+    "placeId":"ChIJbRKD1qob5kcRSEiIgapgqag",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Restaurant",
+    "address":"77 Av. du Général de Gaulle, 77160 Provins, France",
+    "website":"https:\/\/all.accor.com\/hotel\/0856\/index.fr.shtml",
+    "phone":"+33 1 60 67 66 67",
+    "latitude":48.5574772,
+    "longitude":3.2820002,
+    "rating":4.0,
+    "reviews":2.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNgL8rABPM4j5z0RMD573YJgkVFgl0OGdBKLeXj=w92-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":33.0,
+    "dataId":"0x47ef3106b1542307:0xe8a03517aebc2139",
+    "placeId":"ChIJByNUsQYx70cROSG8rhc1oOg",
+    "mainEmail":"h0856@accor.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O'Suprêm",
+    "address":"14 Rue Neuve, 77100 Meaux, France",
+    "website":"https:\/\/osuprem.com\/",
+    "phone":"+33 1 60 09 64 27",
+    "latitude":48.9559579,
+    "longitude":2.8775816,
+    "rating":4.7,
+    "reviews":378.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNlMmgJVZM3bEv7thW9gNnlx3QP7GdbfetGCir_=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47e8a102daf7b671:0xd9454964550e6375",
+    "placeId":"ChIJcbb32gKh6EcRdWMOVWRJRdk",
+    "mainEmail":"contact@osuprem.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Burger de Lucien - Fontenay-Trésigny",
+    "address":"108 Rue Bertaux, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/www.lesburgersdelucien.com\/fontenay-tresigny-77\/",
+    "phone":"+33 6 82 92 18 59",
+    "latitude":48.7118847,
+    "longitude":2.8567678,
+    "rating":4.4,
+    "reviews":78.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipP8v3ySbQlJR-fMgbfQzdNRhSnzfjQlVeG8EyeR=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e8abb848d71571:0x24136d341fd6c7e4",
+    "placeId":"ChIJcRXXSLir6EcR5MfWHzRtEyQ",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Lucky Wok",
+    "address":"15 Av. de la Voulzie, 77160 Provins, France",
+    "website":"https:\/\/www.facebook.com\/luckywokprovins",
+    "phone":"+33 1 60 52 64 88",
+    "latitude":48.5483783,
+    "longitude":3.2943991,
+    "rating":4.0,
+    "reviews":1311.0,
+    "type":"Buffet restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxBlJ_Y0ZxmPOH-MZAbkKeZUKsYvUkrHjg9AhT3PIWvw2RKKmVNDGP_JTGV64hHZL7EG3KByDm9NHPrbYNT_ccIzxz0DSir_dFI8kTKTsqt7uDpFxHa-DIS88JKnmM5bLi6pWOHaQ=w197-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47ef30525008110b:0xb4d04c8ac6f015e0",
+    "placeId":"ChIJCxEIUFIw70cR4BXwxopM0LQ",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Favola della pizza Nemours Distributeur de pizzas",
+    "address":"110 Av. de Lyon, 77140 Nemours, France",
+    "website":"https:\/\/favola.appyness.live\/",
+    "phone":null,
+    "latitude":48.2531821,
+    "longitude":2.7025687,
+    "rating":4.5,
+    "reviews":16.0,
+    "type":"Pizza restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNTaqPkhhbCi8NmOxO7iOix6paCvEDa_bTs4EKo=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "Drive-through",
+      "Takeout",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":45.0,
+    "dataId":"0x47e589000ff89009:0xfa0853ae9eeff102",
+    "placeId":"ChIJCZD4DwCJ5UcRAvHvnq5TCPo",
+    "mainEmail":"hello@appyness.fr",
+    "otherEmails":[
+      "favoladellapizza@gmail.com"
+    ]
+  },
+  {
+    "title":"Saveurs d'Afrique",
+    "address":"16 Rue du Clos Saint-Jean, 77140 Saint-Pierre-lès-Nemours, France",
+    "website":null,
+    "phone":null,
+    "latitude":48.2705075,
+    "longitude":2.6766283,
+    "rating":4.3,
+    "reviews":43.0,
+    "type":"African restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNVwZYhkuyvyNyLtxqz0-R6o4hvwHDeCoZrWZ2S=w124-h92-k-no",
+    "description":null,
+    "openState":"Temporarily closed",
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":77.0,
+    "dataId":"0x47e589d1d5ee8177:0xdf20f84f0bf485be",
+    "placeId":"ChIJd4Hu1dGJ5UcRvoX0C0_4IN8",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Jardin du Châtel",
+    "address":"2 Pl. du Châtel, 77160 Provins, France",
+    "website":"https:\/\/instagram.com\/le_jardin_du_chatel",
+    "phone":"+33 6 59 39 38 74",
+    "latitude":48.5624649,
+    "longitude":3.288641,
+    "rating":4.5,
+    "reviews":199.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipMH0EIQgvHwCUNvM2tRj32slBuwWrTvZ9daPCZM=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":9.0,
+    "dataId":"0x47ef312ce3d2a377:0xbc8ca96578420f3d",
+    "placeId":"ChIJd6PS4ywx70cRPQ9CeGWpjLw",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La commanderie",
+    "address":"11 Cr Gambetta, 77120 Coulommiers, France",
+    "website":"https:\/\/www.restaurantlacommanderie.fr\/",
+    "phone":"+33 1 64 03 00 94",
+    "latitude":48.8146222,
+    "longitude":3.0849672,
+    "rating":4.3,
+    "reviews":618.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipN6MkK5gujae4X8AYHAUEQ2QZemm_JPwf7GOZA0=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47e8b1eaf0b5cf0f:0xf3c27ec73eee9d12",
+    "placeId":"ChIJD8-18Oqx6EcREp3uPsd-wvM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O Lisboa",
+    "address":"4 Bd Henri Chapu, 77000 Melun, France",
+    "website":"https:\/\/www.o-lisboa-restaurant-melun.fr\/",
+    "phone":"+33 1 75 18 66 58",
+    "latitude":48.5345593,
+    "longitude":2.6576397,
+    "rating":4.6,
+    "reviews":179.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOgnXPf7hlBT7Bz_ntKZHgtJ1bdgTSCiEWmlGA7=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47e5fbfa1866f077:0xa71bbf31fa4b5892",
+    "placeId":"ChIJd_BmGPr75UcRklhL-jG_G6c",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O'carre Rouge restaurant",
+    "address":"4 Quai de l'Hôtel de ville, 77120 Coulommiers, France",
+    "website":"https:\/\/ocarrerouge.fr\/",
+    "phone":"+33 1 64 20 75 85",
+    "latitude":48.8120064,
+    "longitude":3.0835662,
+    "rating":4.7,
+    "reviews":622.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxCHReGkeCriG9jPbVOLaRQjNe_zFuKTdGzr8RyVhf-gUh6YWVMg6S8fOt6257URJMwFWl7dCZbpwS3rb_n5PCUYm2zyYb012JVhnQhwD_OsPL-hVsm4AOg8fMFwIuvQHpbL6AG=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47e8b1d5d974e90f:0x35b2302d801712c",
+    "placeId":"ChIJD-l02dWx6EcRLHEB2AIjWwM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant Namaste Inde",
+    "address":"5 Rue Montespan, 91000 Évry-Courcouronnes, France",
+    "website":"https:\/\/mymenuweb.com\/fr\/restaurants\/3855\/",
+    "phone":"+33 1 64 97 86 45",
+    "latitude":48.633559,
+    "longitude":2.437485,
+    "rating":4.6,
+    "reviews":984.0,
+    "type":"Indian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOtqsU9s-s_SOvqBGP5D15h8DmH2vf4E6WnuDba=w138-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47e5de201b160e0f:0x1acc99a76bbe70c1",
+    "placeId":"ChIJDw4WGyDe5UcRwXC-a6eZzBo",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Ecu de France Gourmet",
+    "address":"5 Rue de Paris, 77140 Nemours, France",
+    "website":"https:\/\/www.lafourchette.com\/restaurant\/l-ecu-de-france-gourmet-r14964",
+    "phone":"+33 1 64 78 98 34",
+    "latitude":48.2671033,
+    "longitude":2.6954836,
+    "rating":4.0,
+    "reviews":744.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSw0oRMpj77y9YPmLZdPgqlk217TETpWinGcMrAVbB8q006F7XBId_ArKPChlzv8oH2q37mhPLLduz27WEtWIIphTHydMOXo2zizDffFQswnT8V-9XR86nbonyE3qYOpeASxq9vJ=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47e58915495b0477:0xc881b15b49b50fb6",
+    "placeId":"ChIJdwRbSRWJ5UcRtg-1SVuxgcg",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Asian Legend",
+    "address":"3 Av. Roland Moreno, 77124 Chauconin-Neufmontiers, France",
+    "website":"http:\/\/aushopping.com\/",
+    "phone":"+33 1 64 35 18 47",
+    "latitude":48.9582674,
+    "longitude":2.8602755,
+    "rating":3.7,
+    "reviews":299.0,
+    "type":"Asian restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzPPhzdWWd54JI-IM-_PLuaBhu4hwM1WDuZJ8a0qJLZCh4xQhSUWf5SB763vcEDDJLs7BHhmVkaRV8mU5HaywcDqnbhBtgGERLH2q95I9gqOTJqJQa1NIa2CJjm-XCcGgIadGOi=w189-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":6.0,
+    "dataId":"0x47e8a0f107df300f:0xfb3cb29b56dfdd3",
+    "placeId":"ChIJDzDfB_Gg6EcR0_1ttSnLsw8",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"TEOKBOKKI Korean Street Food",
+    "address":"11 Rue Jacques Amyot, 77000 Melun, France",
+    "website":"https:\/\/www.teokbokki.com\/",
+    "phone":"+33 1 78 49 73 00",
+    "latitude":48.5383904,
+    "longitude":2.6582299,
+    "rating":4.8,
+    "reviews":160.0,
+    "type":"Korean restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPISL1p1C7z-0UGe_8iHqVsfG5JgwCh1rfMzEmI=w166-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e5fb05bd37950d:0x80fff6636be1e265",
+    "placeId":"ChIJDZU3vQX75UcRZeLha2P2_4A",
+    "mainEmail":"teokbokkimelun@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Total Petrol Station Access",
+    "address":"15 AV. DU GAL DE GAULLE, RD 619, D619, 77370 Nangis, France",
+    "website":"https:\/\/locator.totalenergies.com\/NF058180",
+    "phone":"+33 1 64 08 02 49",
+    "latitude":48.5602,
+    "longitude":3.0182,
+    "rating":3.9,
+    "reviews":342.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSz7ubfmLH4pq7kGnUktli35hxPwQw6XmJWHeniWgLgOpdvpgOFPlOXKQldCqd8EKnJ6IOkLyeihuk2SSwOdAKDf5PCIn3t42eoQudquEO0VaQkcGS_7HIPYbsY7NnzkW09eUMyG6g=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Diesel gas",
+      "Full service gas",
+      "Propane exchange"
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":28.0,
+    "dataId":"0x47ef4ee2a619497b:0x2a97d0deff101fb4",
+    "placeId":"ChIJe0kZpuJO70cRtB8Q_97Qlyo",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Okasushi",
+    "address":"27 Av. de Strasbourg, 77120 Coulommiers, France",
+    "website":"http:\/\/okasushi77.fr\/",
+    "phone":"+33 1 64 20 86 77",
+    "latitude":48.8071226,
+    "longitude":3.084121,
+    "rating":4.4,
+    "reviews":655.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzeKj04dM5i-gpzk2J21piTLvqSo2ZYQ8_iD7s4ihDOd61dLfSIevAqVZ27pPTh-VTZECsMJDL2mHh63V8eS0F8y8efrW4B0Hp5tiYFodqL_l03aBML0NLQQm7Ysb2R1WgIGMbs=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47e8b0d25959ca7b:0x76b9d29671a2730d",
+    "placeId":"ChIJe8pZWdKw6EcRDXOicZbSuXY",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"McDonald's",
+    "address":"Angle Rn, 2 Rue du Port, 77140 Saint-Pierre-lès-Nemours, France",
+    "website":"http:\/\/www.restaurants.mcdonalds.fr\/mcdonalds-saint-pierre-les-nemours",
+    "phone":"+33 1 60 55 07 85",
+    "latitude":48.2770728,
+    "longitude":2.6845469,
+    "rating":2.8,
+    "reviews":2948.0,
+    "type":"Fast food restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzt2oZyBf7QeGce9j5mMXhBb-uPJWOkIfdtIPB4H9M-gpUsOZ3K0IaRQy3hGW8gBP-blaFW7H35Mw40d5qgeiTlQ2hyE0BmOU7rOWyyCfIIDmAniswi_bA-KqhHGVZjnTw-4ZzN=w122-h92-k-no",
+    "description":"Iconic fast-food burger & fries chain. Classic, long-running fast-food chain known for its burgers & fries.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":49.0,
+    "dataId":"0x47e589452ab76c11:0x42f299434245edf7",
+    "placeId":"ChIJEWy3KkWJ5UcR9-1FQkOZ8kI",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Nationale 4",
+    "address":"avenue Louis Renault, 77610 Châtres, France",
+    "website":"https:\/\/lenationale4.eatbu.com\/",
+    "phone":"+33 1 64 07 61 02",
+    "latitude":48.7264447,
+    "longitude":2.8314079,
+    "rating":4.3,
+    "reviews":543.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzirIEwj2ibXA2ShrUnroanT7z2mxoTka1rjxaKfxjevJAp6JEDmAdVSlR6-aIOt9PYXrWgubskqbuXWz1NyncY348Rt7G0PU45jPFdN3_YwIxq2JwgGnsYaB-CxRg29sXsOrh8PQ=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e8ab14ac637779:0xc5cf096519b092e1",
+    "placeId":"ChIJeXdjrBSr6EcR4ZKwGWUJz8U",
+    "mainEmail":"lenationale4@orange.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'express",
+    "address":"7 Pl. de la Gare, 77140 Saint-Pierre-lès-Nemours, France",
+    "website":"https:\/\/bureautabac.fr\/77\/saint-pierre-les-nemours\/l-express-f2b",
+    "phone":null,
+    "latitude":48.2666415,
+    "longitude":2.6875104,
+    "rating":4.2,
+    "reviews":40.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSz_j4psVLigp4nqHWC-FXx2TWN-QKfPov69Y-Abyw5F4u-DA1i5cyShX7neTBH0nnOAfHFp4HPi80UaRuEzvHqxgh_g73M3EhHxXVsg8Zm047SBnz-dQtGmTS4rrHLjukbgvf6U=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":51.0,
+    "dataId":"0x47e58938bfb87979:0xce533d97995c3e6a",
+    "placeId":"ChIJeXm4vziJ5UcRaj5cmZc9U84",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Table d'Ogre",
+    "address":"8 Pl. des Tilleuls, 77370 Maison-Rouge, France",
+    "website":"https:\/\/www.latabledogre.com\/",
+    "phone":"+33 6 08 54 20 98",
+    "latitude":48.558228,
+    "longitude":3.1517947,
+    "rating":4.9,
+    "reviews":134.0,
+    "type":"French restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyzh6zd6UOPFc4UCTR5DRbtw_apwiwX7eL52dPUcFrDUuSG8FuKRWIMiHvqN77Ru00d_3s6HSDZYURqM1AHbdTmDkxTnZjD3d5PEkhMhDeTYtEjLLhe0Dy5-o4yiO27x44AP3l1rw=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Onsite services",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47e671d32739317b:0x463b58c348ad96cd",
+    "placeId":"ChIJezE5J9Nx5kcRzZatSMNYO0Y",
+    "mainEmail":"af@latabledogre.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant Ugo",
+    "address":"1 Av. des Comtes de Champagne, 77100 Meaux, France",
+    "website":"https:\/\/ugomeaux.fr\/",
+    "phone":"+33 1 60 01 25 30",
+    "latitude":48.956551,
+    "longitude":2.915723,
+    "rating":4.3,
+    "reviews":894.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzqbng3KWUsLM0wm9OOOC0kb_M88rrAlEqPFaiVx05IXB-Cj2zISyLEKd5lf2LJtqqYQPKVjpXJtd8mZSlIXAR-rxNVN8fqUsiCAYej1pSw0uE8l_IVTfGR3Cbkuk3UDeBY45jU=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e8a17c99495f17:0xaf1f9174f14fe83f",
+    "placeId":"ChIJF19JmXyh6EcRP-hP8XSRH68",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'hambourgeoise",
+    "address":"21 Rue du Palais, 77160 Provins, France",
+    "website":"http:\/\/www.hambourgeoise.fr\/",
+    "phone":"+33 7 68 10 94 48",
+    "latitude":48.5622405,
+    "longitude":3.2885386,
+    "rating":4.8,
+    "reviews":149.0,
+    "type":"French restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzjDYZpu5TqBUT20dVkU5qHd-lDlppnD9a3ZVzDPFJxEo-zDIiFJBR7_N97Efc-Vt8fw7O_fPGnteLWYAEO2EWodNXg5UgRjsE40xRtPX7aziPdBkUSED0gViDxyO3zgpGAc087weMKn3Dm=w199-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47ef319365f19b7f:0x155870706579248a",
+    "placeId":"ChIJf5vxZZMx70cRiiR5ZXBwWBU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"S&J AFRICAN RESTAURANT",
+    "address":"5 Rue Aristide Briand, 77370 Nangis, France",
+    "website":"https:\/\/sj-african.fr\/",
+    "phone":"+33 9 79 06 40 18",
+    "latitude":48.5568369,
+    "longitude":3.0135659,
+    "rating":4.8,
+    "reviews":93.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwhpVph7gowGgQvkNWzmrwlzpJ0w_BaI6YyDJLDBX8QOwDY1OngmTPeNqaOzgPzJc02oPbsBgf1ppBc7Ga6yCYYemx-vml8d314NyZVdfpeTfwh3DHsoCZmPR9befOgtZ1I51ML=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47ef4f002a72b115:0xfc791af96e71c8be",
+    "placeId":"ChIJFbFyKgBP70cRvshxbvkaefw",
+    "mainEmail":"shalon@gmail.com",
+    "otherEmails":[
+      "contact@sj-african.fr"
+    ]
+  },
+  {
+    "title":"Delishi Bon Accueil",
+    "address":"4 Rue de la Grande Île, 77100 Meaux, France",
+    "website":"https:\/\/delishisushi.fr\/",
+    "phone":"+33 1 64 34 27 45",
+    "latitude":48.9563717,
+    "longitude":2.8771111,
+    "rating":4.1,
+    "reviews":772.0,
+    "type":"Restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSz1jFKP59bHJ-q8GhBsBIl1G1Zd5iLdAlFAM7HK0lOwEmqe61egL1owoQk42aCSKwAUFBhFujdiVZMAyTtgzd9MAHlXP6tsH6y8MrDjop9ToQ2iM3J65pceIAQoG-GxUkLvr2Eyxg=w122-h92-k-no",
+    "description":null,
+    "openState":"Temporarily closed",
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47e8a102e021047d:0xc32618eeb95d4b13",
+    "placeId":"ChIJfQQh4AKh6EcRE0tdue4YJsM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Tenshi Sushi",
+    "address":"1 Rue du Général de Gaulle, 77120 Coulommiers, France",
+    "website":"https:\/\/tenshsushi.com\/",
+    "phone":"+33 1 64 03 03 89",
+    "latitude":48.8128319,
+    "longitude":3.0842826,
+    "rating":4.6,
+    "reviews":513.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyLzoSiEnTCUBpcUZoRDTAgR_l_1OHO3yofRc3GygATOR_ckHGiQHmpNh0QbtAr4f4_IWW3sy3ZonKETBNp-yUJFWuGeEO-WcLYF0GBUD6gBYptQWoT7uwVXh05VwsuPSpxmRB0KA=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":38.0,
+    "dataId":"0x47e8b0cc64cd5915:0x457150bb5cbecfac",
+    "placeId":"ChIJFVnNZMyw6EcRrM--XLtQcUU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"UN GOÛT DE NATURE - RESTAURANT À MEAUX",
+    "address":"7 Rue des Cordeliers, 77100 Meaux, France",
+    "website":"http:\/\/www.ungoutdenature.fr\/",
+    "phone":"+33 9 84 32 67 18",
+    "latitude":48.960173,
+    "longitude":2.884867,
+    "rating":4.6,
+    "reviews":933.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPS84XKBIML5pCZibwMVgvO6FQ__3ZcRRegZCGX=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Onsite services",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47e8a103f92d2317:0x8acd575c5adb3ab0",
+    "placeId":"ChIJFyMt-QOh6EcRsDrbWlxXzYo",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Delice de la Goulette",
+    "address":"25 Rue de Paris, 77140 Nemours, France",
+    "website":"https:\/\/www.facebook.com\/pages\/Les-Délices-de-la-Goulette\/1699695403455882",
+    "phone":"+33 1 64 28 88 40",
+    "latitude":48.2671283,
+    "longitude":2.69449,
+    "rating":4.4,
+    "reviews":159.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzXjSbUMGfmzRG7ni3Nho_f1F3AQcgJvVNb1tGbKiTcSdX3GaSt7DM6CaalN78oUvjct51aoAkhKyHeyE0f4ue8y1mMbRtkk2L7DXBoPLpzVGXdlbvb_DpY1WiUYMXDH7YReg6kDQ=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":17.0,
+    "dataId":"0x47e58915564c571b:0x1edc95f5cb670c57",
+    "placeId":"ChIJG1dMVhWJ5UcRVwxny_WV3B4",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Akoya",
+    "address":"2 Rue de la Courtille, 77000 Melun, France",
+    "website":"http:\/\/akoya-melun.fr\/",
+    "phone":"+33 6 13 46 89 39",
+    "latitude":48.5360031,
+    "longitude":2.6599276,
+    "rating":4.2,
+    "reviews":366.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipN53zc-_n28CVXxtlhfDPqRIBX_NGdj2jF0nCgD=w144-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47e5fa7b0b616c1b:0x216ead83038bf15f",
+    "placeId":"ChIJG2xhC3v65UcRX_GLA4OtbiE",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"festa farina e pizza",
+    "address":"3 Rue du Général de Gaulle, 77120 Coulommiers, France",
+    "website":"https:\/\/leactullio19.wixsite.com\/festa-farina-e-pizza",
+    "phone":"+33 1 64 82 85 70",
+    "latitude":48.8125936,
+    "longitude":3.0842829,
+    "rating":4.7,
+    "reviews":239.0,
+    "type":"Pizza restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNGyhIPkaJyYtZZYcks02lVdaTEnpkSJipTUf40=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e8b1264e5bc483:0xd3931923b86d8fc8",
+    "placeId":"ChIJg8RbTiax6EcRyI9tuCMZk9M",
+    "mainEmail":"festaefarina@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"LACASACREOLE",
+    "address":"6 Bd Aristide Briand, 77390 Chaumes-en-Brie, France",
+    "website":"https:\/\/la-casacreole.eatbu.com\/",
+    "phone":"+33 7 82 51 45 63",
+    "latitude":48.6674017,
+    "longitude":2.8422873,
+    "rating":4.8,
+    "reviews":284.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxIWBP5t5zbn69OBIOVYo_iRnQtsSdAFmB8Vlx_912W9KtUy2nfdx53lRwBhfPb7O9AA0omCXWY6ajjHiGJv48ZjxDX9EPBrMtIdeKHXGxEbEjweKUM743NLvr4CEOoM8TK0YU=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":26.0,
+    "dataId":"0x47ef550b1acbda83:0xeeb82b182e7a70ba",
+    "placeId":"ChIJg9rLGgtV70cRunB6LhgruO4",
+    "mainEmail":"lacasacreole@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Les petits plats de Mada",
+    "address":"9 Rue Georges Brassens, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/ppm.eatbu.com\/",
+    "phone":null,
+    "latitude":48.706556,
+    "longitude":2.8793137,
+    "rating":4.8,
+    "reviews":6.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOKVV5PhyjzfC30toNGaeZ7qSZ0b4oHY3U-vOic=w163-h92-k-no",
+    "description":null,
+    "openState":"Temporarily closed",
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47e8ab69120b0883:0x5a78767b97808813",
+    "placeId":"ChIJgwgLEmmr6EcRE4iAl3t2eFo",
+    "mainEmail":"jbraza@outlook.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Del Arte",
+    "address":"zac maison neuve, 52 Av. de la Commune de Paris, 91220 Brétigny-sur-Orge, France",
+    "website":"https:\/\/www.delarte.fr\/store-finder\/893001",
+    "phone":"+33 1 60 84 97 02",
+    "latitude":48.5871267,
+    "longitude":2.2999968,
+    "rating":3.9,
+    "reviews":910.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPzmH_w5Rl_c35CRhvmAL6Cl3JVOlqIfgY6rwk2=w137-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47e5da529fbf171b:0xe52e8f5f35dc54a0",
+    "placeId":"ChIJGxe_n1La5UcRoFTcNV-PLuU",
+    "mainEmail":"rennes-alma@delarte.fr",
+    "otherEmails":[
+      "bdfrrennbastard@groupeleduff.com"
+    ]
+  },
+  {
+    "title":"Mix Max",
+    "address":"6 Rue du Montbillard, 77120 Coulommiers, France",
+    "website":"https:\/\/www.dos-pollos.fr\/",
+    "phone":"+33 7 59 58 79 63",
+    "latitude":48.8214134,
+    "longitude":3.094712,
+    "rating":4.6,
+    "reviews":54.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNoMZRWQyhSfkf0AZEk8L8nsi-ZtcP0PnNqjaU=w80-h97-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47e8b79e48de8d19:0x6e7e8293aed8f6a2",
+    "placeId":"ChIJGY3eSJ636EcRovbYrpOCfm4",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Punjab",
+    "address":"25 Rue du Val, 77160 Provins, France",
+    "website":"http:\/\/priya.eatbu.com\/",
+    "phone":"+33 1 64 00 91 80",
+    "latitude":48.5605944,
+    "longitude":3.2971681,
+    "rating":4.7,
+    "reviews":452.0,
+    "type":"Indian restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyUNYXtIjJFiWRMM6NObID3Tu9Hg2U3_0YxwRY7YIs_grKoHBdMK0AX8x373VUWVxx5ZTT18FOM3Ft2uVRDLe-c7aH3oX5kr6Doaj2bJNdmCr0jVxRMB32wME5hOqpJhioWuqz_jA=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47ef31e58d985e87:0x8caba90efd2396a2",
+    "placeId":"ChIJh16YjeUx70cRopYj_Q6pq4w",
+    "mainEmail":"sarlpriya2021@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Best Wok - Meaux",
+    "address":"33 Av. de la Victoire, 77100 Meaux, France",
+    "website":"https:\/\/meaux.wok-grill.fr\/",
+    "phone":null,
+    "latitude":48.9570401,
+    "longitude":2.9101312,
+    "rating":4.1,
+    "reviews":1495.0,
+    "type":"Asian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSznyK9aOfKiTkJu8WhhIpYTPqgfHAKhWL5sW_NFcYP0m_jUzmMW-n3Kf0BJij2pS4CiOewizvVO8SWIGi99cTHkP2JtsYIUrC3gN8U1vKhdc5HfAOAak9rOIQcZP7fASND9W-k=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47e8a1d28542c687:0x96c97d5f13d79fc4",
+    "placeId":"ChIJh8ZChdKh6EcRxJ_XE199yZY",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Bella Pizz's",
+    "address":"2 Pl. Saint-Ayoul, 77160 Provins, France",
+    "website":null,
+    "phone":"+33 1 64 00 00 62",
+    "latitude":48.5603799,
+    "longitude":3.3016226,
+    "rating":4.2,
+    "reviews":225.0,
+    "type":"Pizza restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzDB_lFyH7IP0CapcA5oX2pGBQxnLd6pyNk6TwWxyLyJ894C9SxsrzRl-UcaaN13og8VSdiC0Ok-r4uaVGWxNtmvvSrkfdn6N4Ry4sMdcwm-g66n-hMCq9O3D1cqTdCgtSGoik=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":22.0,
+    "dataId":"0x47ef31b08d8a141d:0xd7de10690c9a6e63",
+    "placeId":"ChIJHRSKjbAx70cRY26aDGkQ3tc",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Ness pyramide",
+    "address":"22 Pl. Jean Jaurès, 77140 Nemours, France",
+    "website":null,
+    "phone":"+33 1 72 66 77 89",
+    "latitude":48.264976,
+    "longitude":2.6950071,
+    "rating":3.5,
+    "reviews":26.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzdmU1qHEcnA-FA7f2zsNHIP1Mrlolje7DaBoTlOY2cmG7kd1TCOynXxeuwqZSCq8ehbLUPyVuz-5m6HgSsQ3AEBrCj38wEaxKD3J19PMK1q-JZ9PgEk8Fo89tuEOkOJ9CAuhg=w163-h92-k-no",
+    "description":null,
+    "openState":"Temporarily closed",
+    "serviceOptions":[
+      "Delivery",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":78.0,
+    "dataId":"0x47e58932796e2985:0x75dd3218b20c86",
+    "placeId":"ChIJhSlueTKJ5UcRhgyyGDLddQA",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Chaumière",
+    "address":"56 Pl. de la Mairie, 77120 Mouroux, France",
+    "website":"http:\/\/lachaumiere.pro\/",
+    "phone":"+33 1 64 03 07 17",
+    "latitude":48.8216133,
+    "longitude":3.0377807,
+    "rating":4.6,
+    "reviews":866.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyp1EWtELKRULNecb264mer5-I5uENDc2MEEhtxwg-GLc-G_0oenuJvnribKfJ4B0mFb0_PPSJXil54W3gAoM4jYXBrTDuYADsRM890Tqiv77I4MwzddBX3kE4e8uMDpytWKdg4=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":34.0,
+    "dataId":"0x47e8b060ce4e5285:0xd276365854509f56",
+    "placeId":"ChIJhVJOzmCw6EcRVp9QVFg2dtI",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Burger King",
+    "address":"Aire De Nemours, 77140 Nemours, France",
+    "website":"https:\/\/www.burgerking.fr\/restaurants",
+    "phone":"+33 1 64 78 51 70",
+    "latitude":48.2635291,
+    "longitude":2.7211282,
+    "rating":3.9,
+    "reviews":6229.0,
+    "type":"Fast food restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzCyN2PUeeOAypxz3kWG6kOJ1_3AwORvqUO0PGJA8xEmHkqp5L_5HEGBTZT7HDIP9qK4Gpa14FyuNotsxMIf6CG5TCVCYufaxO5zdZsShW5izNIVuhG5Q3cm3xiUrVT5cBQjdWn=w163-h92-k-no",
+    "description":"Fast-food chain for grilled burgers. Well-known fast-food chain serving grilled burgers, fries & shakes.",
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":37.0,
+    "dataId":"0x47e589a3fed75f1d:0xd130434a6a359563",
+    "placeId":"ChIJHV_X_qOJ5UcRY5U1akpDMNE",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O-CANTINE",
+    "address":"23 Rue Victor Arnoul, 77160 Provins, France",
+    "website":"https:\/\/www.o-cantine.com\/",
+    "phone":"+33 1 60 52 98 15",
+    "latitude":48.5583763,
+    "longitude":3.3031543,
+    "rating":4.6,
+    "reviews":80.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxYEKZOHa6kxhiiN4M5osU47EOud0vfZVLQhKRvgtwCapPUUmbPkGZekecO90HUDpiCgQAXl3mIapPxc5P7f5suujztXrK79gdDRiHLBjPFqm91lu9d7GUkLDADispQkGiLtwApgmpLLzG4=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47ef3115f8ef9385:0xe3274825476a71c2",
+    "placeId":"ChIJhZPv-BUx70cRwnFqRyVIJ-M",
+    "mainEmail":"info@o-cantine.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Primula",
+    "address":"4 Rue Sanson, 77140 Nemours, France",
+    "website":"https:\/\/laprimula.fr\/",
+    "phone":"+33 6 58 97 68 57",
+    "latitude":48.2641839,
+    "longitude":2.6960056,
+    "rating":4.6,
+    "reviews":435.0,
+    "type":"Italian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPvIeZgYjEaHdcteD0nyxKHBfq1pRWD6PB7f6BY=w103-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e589f9f1195f8b:0xd0b10492d7cd66a6",
+    "placeId":"ChIJi18Z8fmJ5UcRpmbN15IEsdA",
+    "mainEmail":"leonardo@mail.it",
+    "otherEmails":[
+      "exemple@monsite.com"
+    ]
+  },
+  {
+    "title":"Kintaro Melun",
+    "address":"40 Av. Thiers, 77000 Melun, France",
+    "website":"http:\/\/www.kintaromelun.eu\/",
+    "phone":"+33 1 64 37 03 59",
+    "latitude":48.5297045,
+    "longitude":2.6545057,
+    "rating":3.9,
+    "reviews":175.0,
+    "type":"Asian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzxyzFmNaDPmGiFf8HFN5J2fvG3mps_P4zsAGy0lATqe940IoKUTuTDUokzws5ROTkbljOGNYF_87A4hjXjWf1dcV4TgpvQ9DHlsLiZF54Hal255d1qf7FRJkzzLNnJK9Jzz_8=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e5fa7fa39bd48b:0xcc56176e6020c42e",
+    "placeId":"ChIJi9Sbo3_65UcRLsQgYG4XVsw",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Terrasse Du Churrasco",
+    "address":"Av. des Petites Prairies, 77160 Poigny, France",
+    "website":"https:\/\/www.laterrasseduchurrasco.fr\/",
+    "phone":"+33 1 60 58 85 45",
+    "latitude":48.5449078,
+    "longitude":3.2846845,
+    "rating":4.3,
+    "reviews":446.0,
+    "type":"Portuguese restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSydVgcvz54On3tz9UdnS9VJ4pck6Wb-0oNjji97QT2RP_AGkHCxO0z5-DkgPtKPO00xS8sHeIJw4YMtcxC7MeRTSWZ3l7GqUgG7hkePaWSug6tQ574Fx_GuBLbDPs--uMfJDKkP=w80-h142-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":16.0,
+    "dataId":"0x47ef3056013c0c21:0x4f61267408802e14",
+    "placeId":"ChIJIQw8AVYw70cRFC6ACHQmYU8",
+    "mainEmail":"laterrasseduchurrasco@hotmail.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Kiosque à Pizzas",
+    "address":"24 Pl. du Marché, 77100 Meaux, France",
+    "website":"https:\/\/linktr.ee\/kapmeauxmarche",
+    "phone":"+33 1 60 25 34 22",
+    "latitude":48.9561776,
+    "longitude":2.8788025,
+    "rating":4.0,
+    "reviews":366.0,
+    "type":"Pizza restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxjXGntUIB53skiROhUFVkLXpwL0ik7Iofy51tRVua1IY9h7HrrR_6snxGjHvItoq4VKBuzq4o_AVaaudlT1SPe0ZV16XCxrXE_dzRpbpH7ky6Sq_LhxAaJd2xUBpaCtDWpxYUGDg=w163-h92-k-no",
+    "description":"Pizzeria offering take-out options. Snug fast-food kiosk featuring classic & original artisanal take-out pizza recipes.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e8a103406b8621:0xdc573b819d4f541a",
+    "placeId":"ChIJIYZrQAOh6EcRGlRPnYE7V9w",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Etoile de Provins",
+    "address":"9 Rue François Rayer, 77160 Provins, France",
+    "website":"https:\/\/etoile-de-provins.myshopify.com\/",
+    "phone":"+33 1 75 87 96 43",
+    "latitude":48.5533673,
+    "longitude":3.2980583,
+    "rating":3.9,
+    "reviews":778.0,
+    "type":"Buffet restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSy2S6dDm2RrEI2ruiCN2b4lQ_K1emdTWyUiKF3TN4Uh0gTlkBICyQ1n_1eXrMtp3gRr9azLPvnAN_lkKfBZtMiUQu5l2afcGF1gpjuomTqT-zVnnL9hlKpWXBtjcZkLx1KUwgJLYg=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47ef31b29b989689:0x69c087831af32315",
+    "placeId":"ChIJiZaYm7Ix70cRFSPzGoOHwGk",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Brasserie Cosmopolitan Melun",
+    "address":"50 RD 306, 77240 Vert-Saint-Denis, France",
+    "website":"https:\/\/www.cosmopolitan-melun.fr\/",
+    "phone":"+33 1 64 19 48 79",
+    "latitude":48.5620971,
+    "longitude":2.6343226,
+    "rating":4.7,
+    "reviews":635.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNiwH5iJHimpsazpcBNtTtKn4JaAlPLFMP6UgDr=w91-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47e5fb6c44bffd27:0xe994df227a50ff19",
+    "placeId":"ChIJJ_2_RGz75UcRGf9QeiLflOk",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Chez Yuelu",
+    "address":"2 Rue du Grand Morin, 77120 Coulommiers, France",
+    "website":null,
+    "phone":"+33 1 64 20 28 88",
+    "latitude":48.8054384,
+    "longitude":3.0933441,
+    "rating":3.3,
+    "reviews":678.0,
+    "type":"Hot pot restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/streetviewpixels-pa.googleapis.com\/v1\/thumbnail?panoid=LK_TQwQQKn-WGA5aJkNY1Q&cb_client=search.gws-prod.gps&w=211&h=120&yaw=215.50989&pitch=0&thumbfov=100",
+    "description":null,
+    "openState":"Permanently closed",
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":null,
+    "dataId":"0x47e8b72e8f182927:0xd34cb7c4c20cbbd",
+    "placeId":"ChIJJykYjy636EcRvcsgTHzLNA0",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Maison Meldoise",
+    "address":"33 Rue Saint-Rémy, 77100 Meaux, France",
+    "website":"https:\/\/www.la-maison-meldoise-restaurant-meaux.fr\/",
+    "phone":"+33 1 60 23 43 63",
+    "latitude":48.9598484,
+    "longitude":2.876739,
+    "rating":4.2,
+    "reviews":519.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOGcMpaN_p-GoyrxiwiOPWQEl94RIJizh1b0F66=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":12.0,
+    "dataId":"0x47e8a10221506d2b:0x64f0966f7dbe8e05",
+    "placeId":"ChIJK21QIQKh6EcRBY6-fW-W8GQ",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Table Antillaise",
+    "address":"12 Rue Sauve Delanoue, 77100 Meaux, France",
+    "website":"https:\/\/www.latableantillaise.com\/",
+    "phone":"+33 1 60 44 75 04",
+    "latitude":48.958368,
+    "longitude":2.8806452,
+    "rating":4.9,
+    "reviews":157.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPC9jTnvC8JWKnho_wEu26vunahJwm4fr9RrEHx=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e8a16e50dbcb29:0xc601a0e523843c1",
+    "placeId":"ChIJKcvbUG6h6EcRwUM4Ug4aYAw",
+    "mainEmail":"latableantillaise@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Chinatown",
+    "address":"10 Rue Aristide Briand, 77100 Meaux, France",
+    "website":"https:\/\/www.chinatownmeaux.fr\/",
+    "phone":"+33 1 60 25 88 88",
+    "latitude":48.956107,
+    "longitude":2.883471,
+    "rating":4.3,
+    "reviews":520.0,
+    "type":"Chinese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOafDH3P5EFNimminObhFF3Twjv1OwSif8uKGYH=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47e8a10518c9d529:0x6d125bfba7ff7ab0",
+    "placeId":"ChIJKdXJGAWh6EcRsHr_p_tbEm0",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Terrasse du Châtel",
+    "address":"8 Pl. du Châtel, 77160 Provins, France",
+    "website":"https:\/\/laterrasseduchatel.eatbu.com\/",
+    "phone":"+33 1 64 00 01 16",
+    "latitude":48.5626136,
+    "longitude":3.288202,
+    "rating":4.2,
+    "reviews":746.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwQNlULHPTss2TsdqR5OMhQ6rF72nlAUA8OQ7BgsNaz-MRnwHD9UlE9miBFvg_jrDDzNaN09IDj3PFwl9Gr8gkV8DOOhNRObFSvKkdsM9mFqgVBI5_iYQMmJyy3G6UF9ItygEXw=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":5.0,
+    "dataId":"0x47ef31a7e84afa93:0xac8e6b8942c1797",
+    "placeId":"ChIJk_pK6Kcx70cRlxcslLjmyAo",
+    "mainEmail":"terrasseduchatel@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Best of Bangkok",
+    "address":"34 Rue Saint-Barthélémy, 77000 Melun, France",
+    "website":"https:\/\/www.facebook.com\/bob77000\/",
+    "phone":"+33 1 64 37 83 84",
+    "latitude":48.5417304,
+    "longitude":2.6560187,
+    "rating":4.4,
+    "reviews":343.0,
+    "type":"Thai restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwmj3s_pz3TdEpvlZD1paq1azTAdiMQNtmwMD6xBR2OIk0utjFehYe5XP7hqif7E53uTVWKbHzNTaZKfyo0ceXAcQQLWFaTqgN3yWy1wfoeQRBosbHFuaf4ZTc9o1NzhbTHyvGBvw=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e5fa624a48052b:0x1bdf34c6f322d078",
+    "placeId":"ChIJKwVISmL65UcReNAi88Y03xs",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Khon Kaen Dok Khoon Thaï",
+    "address":"39 Pl. de la République, 77140 Nemours, France",
+    "website":"https:\/\/www.facebook.com\/people\/Khon-Kaen-Dok-Khoon-Thaï\/100092402029889\/",
+    "phone":"+33 7 50 49 98 48",
+    "latitude":48.2670548,
+    "longitude":2.6957729,
+    "rating":4.9,
+    "reviews":111.0,
+    "type":"Thai restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSywJ9oSftStedaClVlaBeiXTPzXbMIwsNRrZqi0xRaLW6ykzH8CBAJrqeC_m1IdZfg8Q6f2kN4ksDXJGClKkeSFCKn3mJ1NSdSHV8v9-Sn_v0ZlKFJHesc_YCkJtm0pcueyVDplPCm-Uas=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":15.0,
+    "dataId":"0x47e589d699e4282b:0x88d2f468dd126d37",
+    "placeId":"ChIJKyjkmdaJ5UcRN20S3Wj00og",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Au Bout Du Monde",
+    "address":"190 Av. de la Grande Haie, 77100 Mareuil-lès-Meaux, France",
+    "website":"https:\/\/www.auboutdumonde77100.fr\/",
+    "phone":"+33 1 60 22 38 38",
+    "latitude":48.9340636,
+    "longitude":2.8775319,
+    "rating":4.1,
+    "reviews":4483.0,
+    "type":"Buffet restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyg7ZNuVHpnCKVRU19cn6wawZdCRYsrmBFezCTj6DIIrIYQaKme5JYjpimRAGIdHb4yHLlGW9lTVvn5dv--05uzWv2HjlkTYLdC5jHiCVwwhEy07z2q_9dfjhraKdGcsQ8X5z5Q=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47e8a1261430572f:0x4627517742602909",
+    "placeId":"ChIJL1cwFCah6EcRCSlgQndRJ0Y",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Paprika",
+    "address":"28 Av. Trudaine, 75009 Paris, France",
+    "website":"http:\/\/www.le-paprika.com\/",
+    "phone":"+33 1 44 63 02 91",
+    "latitude":48.8809465,
+    "longitude":2.3406857,
+    "rating":4.2,
+    "reviews":983.0,
+    "type":"Hungarian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipP_FCycB3DAOjnWOwSoW1L8PDyPLYOk_RFJHryI=w163-h92-k-no",
+    "description":"Old-school venue for Hungarian food. Traditional restaurant focusing on Hungarian classics like goulash, plus French dishes & aperitifs.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47e66e46b2818597:0xf2e77dbf83e369b0",
+    "placeId":"ChIJl4WBskZu5kcRsGnjg7995_I",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Petit Nice",
+    "address":"1 Av. Jehan de Brie, 77120 Coulommiers, France",
+    "website":"https:\/\/www.facebook.com\/profile.php",
+    "phone":"+33 1 64 65 52 01",
+    "latitude":48.816152,
+    "longitude":3.084436,
+    "rating":5.0,
+    "reviews":1.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSw-umjzJOxSrn0FaU-9Njznv7WtY6fQw9NYx-kx5AjFvhEeuWgPJ9mcA-NbM6xyMf6-EojlhN8QKefkEfdAMh1UZJbzVQa6EuRcIVQRc3-mO5gCHjEILREL4zFuQ1uckujGw0qAoj1tyK-n=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":25.0,
+    "dataId":"0x47e8b10044f7c697:0xd8ce4029cb9b9c15",
+    "placeId":"ChIJl8b3RACx6EcRFZybyylAztg",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Tokyo Sushi",
+    "address":"53 Rue Aristide Briand, 77100 Meaux, France",
+    "website":"http:\/\/www.tokyosushi.sitew.com\/",
+    "phone":"+33 1 60 23 40 41",
+    "latitude":48.9563632,
+    "longitude":2.8892914,
+    "rating":4.4,
+    "reviews":226.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSylphqWzIlfc6Ut5jmhL6dW4fB7S4DmR_NFcMwab4CZZ5_l8wJL98oUaPFlJCRFF8yPPE7pJpNAzLLVxVSEQwpqIOtYz-gcQtBZFwewS5OfA-sU-Waqs9CsjrCMpUBjZp0Vy55C=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e8a10e48dedf95:0xdb773fca1afab301",
+    "placeId":"ChIJld_eSA6h6EcRAbP6Gso_d9s",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Clos St Jean",
+    "address":"4 Rue du Guinebert, 77140 Saint-Pierre-lès-Nemours, France",
+    "website":"https:\/\/www.montabac.fr\/77140-tabac-le-clos-saint-jean",
+    "phone":"+33 1 64 78 37 43",
+    "latitude":48.2711197,
+    "longitude":2.6787302,
+    "rating":4.0,
+    "reviews":98.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwHqAy9UhCli2mN1ELi_UNZa1KuNr3fNlQws2oATkhI1eP1yfgNY7mr2wVv_-26jXW91dCHzjnvpbSDepkwKavG-0GIGb8l9i7Sny480HOziVUdUKVbQ6p63hgKBAqC12tGcf8LTQ=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":40.0,
+    "dataId":"0x47e5894bda29f02d:0xd346c8ebd1baaf5b",
+    "placeId":"ChIJLfAp2kuJ5UcRW6-60evIRtM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Petit Ecu",
+    "address":"9 Pl. du Châtel, 77160 Provins, France",
+    "website":"https:\/\/www.auxvieuxremparts.com\/fr\/restaurant\/le-petit-ecu.html",
+    "phone":"+33 1 64 08 95 00",
+    "latitude":48.5623753,
+    "longitude":3.2875995,
+    "rating":3.2,
+    "reviews":44.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxiHGXRDNtjGEKb878PMYwovylXWdQW3mwTZaSTLKy9wNQorod7Sxwpdln03VBQ751PHy17ggydBu8s7Iy4LQQzlAyE7_ONr1MgnKUudojVlfxeVYLA6XGCqFVhVD7rMoViktZu=w138-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47ef31a7f98b1e95:0xde4dfc556246bcad",
+    "placeId":"ChIJlR6L-acx70cRrbxGYlX8Td4",
+    "mainEmail":"info@auxvieuxremparts.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Sushi Kokiyo",
+    "address":"20 Rue du Tan, 77100 Meaux, France",
+    "website":"http:\/\/www.sushikokiyo.com\/",
+    "phone":"+33 1 60 23 74 86",
+    "latitude":48.9587173,
+    "longitude":2.8815455,
+    "rating":4.3,
+    "reviews":238.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwMs65M7GMkVfWA-SUY9g3RZi-SRxF1URgewAosv_uJLvdqfyYEpmzAJa4m_WZXyE1EFglyNXfNDE8P_hnUDhAYcPu1qwLRwAlmi5P0nuAXpyGojmhz_zDtRjkxD6vwkZEWRL4MsA=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e8a1046b3c599b:0xea8aa54de3abab1f",
+    "placeId":"ChIJm1k8awSh6EcRH6ur402liuo",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Saveurs Syriennes",
+    "address":"5 Rue du Général de Gaulle, 77000 Melun, France",
+    "website":null,
+    "phone":"+33 1 75 79 14 44",
+    "latitude":48.539912,
+    "longitude":2.6597867,
+    "rating":4.7,
+    "reviews":134.0,
+    "type":"Restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/streetviewpixels-pa.googleapis.com\/v1\/thumbnail?panoid=_3IFG1WSlyYFFKKQ5OW-sA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=242.26443&pitch=0&thumbfov=100",
+    "description":null,
+    "openState":"Permanently closed",
+    "serviceOptions":[
+      "Takeout",
+      "Delivery"
+    ],
+    "keyword":[
+      "sfiha restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":null,
+    "dataId":"0x47e5fb210dd18233:0xc2f74fdc7c1ed0a6",
+    "placeId":"ChIJM4LRDSH75UcRptAefNxP98I",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O'Tacos Provins",
+    "address":"6-8 Rue du Minage, 77160 Provins, France",
+    "website":"https:\/\/o-tacos.com\/",
+    "phone":"+33 1 60 58 22 17",
+    "latitude":48.5601527,
+    "longitude":3.3014869,
+    "rating":3.8,
+    "reviews":635.0,
+    "type":"Fast food restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwMs2eOGQ30vm_pU74zzaAmVkv52yz6-PwkV0EC-DJ_JcTc0lpTn06dXTzxMDHzIV5d6048sx6sxTa0Uj6N0Jk-rGmz4EGdTrwbN1IbVgQbzzxa2ukzd2imgtObDsT0eBg7fSUU=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":46.0,
+    "dataId":"0x47ef31b0f273ed31:0x4011d33ca53ad529",
+    "placeId":"ChIJMe1z8rAx70cRKdU6pTzTEUA",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Abreuvoir",
+    "address":"9 Rue de l'Abreuvoir, 77000 Melun, France",
+    "website":"https:\/\/www.abreuvoir-melun.fr\/",
+    "phone":"+33 9 70 99 88 18",
+    "latitude":48.5388889,
+    "longitude":2.6636111,
+    "rating":4.4,
+    "reviews":893.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxrHKpdSj1Zmr25YBVmL3pKqiKxfH-SlT-UZhxsjwsc7cKSse0XWvSkQvHRbED-AVv9RhdhzKqerwcouBIXVRW8sxQcRuqPoBcYfg7yOJktXBcubH2_tEqr7JNFhxyBmQEYdVSS=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47e5fa655cae4131:0xa3c69a9191ce02d0",
+    "placeId":"ChIJMUGuXGX65UcR0ALOkZGaxqM",
+    "mainEmail":"abreuvoirmelun@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'usine",
+    "address":"15 Av. de la Voulzie, 77160 Provins, France",
+    "website":"https:\/\/www.restaurantlusine.com\/",
+    "phone":"+33 1 60 67 72 44",
+    "latitude":48.54845,
+    "longitude":3.2941346,
+    "rating":4.2,
+    "reviews":1865.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyWSCDDLkbDr9taIj3Efo-ehE5CFWMC7bl-0LVXN-ETVaKTQDXMuLxcpbsoz5uC_ty8kSe9DQdhH6j96R8cYOYzRbwrgi49gkP_2cPU7qa_WMoQs_5gllqcw9ixdCTUnt-wlUThXg=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47ef305249445631:0x9c8d8b4d255b5703",
+    "placeId":"ChIJMVZESVIw70cRA1dbJU2LjZw",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Green Délices",
+    "address":"3 Rue Jacques Amyot, 77000 Melun, France",
+    "website":"https:\/\/www.green-delices-restaurant-melun.fr\/",
+    "phone":"+33 6 66 95 18 48",
+    "latitude":48.5381974,
+    "longitude":2.6588876,
+    "rating":4.9,
+    "reviews":167.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSx2QI4Nlgq6GTXzyHUEaVOgKrTFky5BYP7BOTBpJQVESjEI8Ps2aiLR1W1ooZPPKSP9YhPZq1m7Re2KSXG3TQtFx1dBptVfF-VEthFDUXu45UEQOacV1Oa_SipNCCo-p0UorKFW4G28YvST=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":5.0,
+    "dataId":"0x47e5fb0aec0e1733:0x94a7be7d6b705f3d",
+    "placeId":"ChIJMxcO7Ar75UcRPV9wa32-p5Q",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"le sherazade",
+    "address":"150 Rue Fbg Saint-Nicolas, 77100 Meaux, France",
+    "website":"https:\/\/sherazade.eatbu.com\/",
+    "phone":"+33 1 64 35 06 78",
+    "latitude":48.9576275,
+    "longitude":2.8917035,
+    "rating":4.3,
+    "reviews":491.0,
+    "type":"Moroccan restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/streetviewpixels-pa.googleapis.com\/v1\/thumbnail?panoid=ieCO2WUI_IbF-1TrQgtSEg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=206.25&pitch=0&thumbfov=100",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "sfiha restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":null,
+    "dataId":"0x47e8a10e82ff4237:0x169ed5ea1b67012c",
+    "placeId":"ChIJN0L_gg6h6EcRLAFnG-rVnhY",
+    "mainEmail":"r.h.77@live.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant Du Grand Morin",
+    "address":"1458 Av. de Paris, 77120 Coulommiers, France",
+    "website":"https:\/\/guinguette-du-grand-morin.eatbu.com\/",
+    "phone":"+33 6 12 32 09 18",
+    "latitude":48.8142013,
+    "longitude":3.0714015,
+    "rating":4.6,
+    "reviews":369.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPYTkKW0uAJbOzEFwFdCqyvGJAz74arFpxNgZpi=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e8b1527770bf9d:0x208d67c5b6eba2d2",
+    "placeId":"ChIJnb9wd1Kx6EcR0qLrtsVnjSA",
+    "mainEmail":"chalalhakim1970@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Hôtel le Clos St Jacques",
+    "address":"12 Av. du Général de Gaulle, 77160 Provins, France",
+    "website":"https:\/\/le-clos-saint-jacques-provins.eatbu.com\/",
+    "phone":"+33 1 64 00 01 10",
+    "latitude":48.5592786,
+    "longitude":3.2869895,
+    "rating":4.5,
+    "reviews":375.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwQFBXlXH2Z9SAKz-NFHYhojfbFYchDiMwmZP4_xzQ3DKHcHXqwEACXaiMj87tsKdcVluNIAWyRK4xqdt4NlOVEk39jJKmQtEZd5JLTYWHmD_aUJ7j_vtx3rmoSpaorjjL9QoXQ=w122-h92-k-no",
+    "description":"Modest hotel with a country restaurant. Informal hotel with simple rooms & a country restaurant offering a terrace & signature couscous.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":9.0,
+    "dataId":"0x47ef31a9d3f6969d:0x7c2dd955c28fbcfb",
+    "placeId":"ChIJnZb206kx70cR-7yPwlXZLXw",
+    "mainEmail":"hotelclos@hotmail.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Glacier Des Remparts",
+    "address":"7-1 Rue Couverte, 77160 Provins, France",
+    "website":"https:\/\/www.auxvieuxremparts.com\/fr\/",
+    "phone":"+33 1 64 08 95 99",
+    "latitude":48.5626907,
+    "longitude":3.2870352,
+    "rating":4.2,
+    "reviews":59.0,
+    "type":"Sundae restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxYesP-Le57MS5oFo73R4JDr5UdxsrgbomqjAp41rezpzuQHMj8gx0BUTA2r4-FR4OYEFQfbMTeNW6paM2Jtv83bt0lfBeCIKwllua0fcyKhSw-1vM8nMX08maCtkeSpSIS-V0zgA=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":50.0,
+    "dataId":"0x47ef311921ac3b37:0x6956ab72b71a12e7",
+    "placeId":"ChIJNzusIRkx70cR5xIat3KrVmk",
+    "mainEmail":"info@auxvieuxremparts.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"The Corners Food Court",
+    "address":"26 Bd de la Marne, 77120 Coulommiers, France",
+    "website":"https:\/\/cornersfoodcourt.com\/",
+    "phone":"+33 9 82 59 65 66",
+    "latitude":48.8061111,
+    "longitude":3.0941667,
+    "rating":4.4,
+    "reviews":1219.0,
+    "type":"Fast food restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyx7D1y2iagtF2JAn_ZWqB-uvzgYecRprdXICrprXc48XKQRQzHJk4E-MjpytNfq2NqOZmZJxY2XPx5f7_NXazpZ16vCCdcrBsqHlfsW87qdphllP3Ik_Tj4-CPR8COWSaW44cE=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e8b72e5eb8b9a1:0x8edf953858db16f5",
+    "placeId":"ChIJobm4Xi636EcR9RbbWDiV344",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Del Arte",
+    "address":"15 Av. du Général de Gaulle, 91170 Viry-Châtillon, France",
+    "website":"https:\/\/www.delarte.fr\/store-finder\/3458001",
+    "phone":"+33 1 69 12 20 30",
+    "latitude":48.67227,
+    "longitude":2.38926,
+    "rating":3.7,
+    "reviews":1854.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwNZLQk0kxj6hoytNQhenHShK1VIr8893jJ0H3-zyCh-1AMyAWGXdF2kKoRE72XLTRLnPrOmbDzgyL2bT2Rw3zXrNkLWCzxUJ8txMrHCjyh4D9acvYcmNdEfAbBORGL=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":16.0,
+    "dataId":"0x47e5df2e1f6a8f39:0x1e761fbe4cf50f32",
+    "placeId":"ChIJOY9qHy7f5UcRMg_1TL4fdh4",
+    "mainEmail":"rennes-alma@delarte.fr",
+    "otherEmails":[
+      "bdfrrennbastard@groupeleduff.com"
+    ]
+  },
+  {
+    "title":"Pizza Pronto",
+    "address":"44 Rue de Paris, 77140 Nemours, France",
+    "website":"http:\/\/www.pizza-pronto-nemours.com\/",
+    "phone":"+33 1 64 28 00 00",
+    "latitude":48.2672881,
+    "longitude":2.694918,
+    "rating":3.2,
+    "reviews":218.0,
+    "type":"Pizza restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipO6xMhX1lKoDwitCphkZZ89y_i3YZ6Jj9e9Uvd4=w248-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":63.0,
+    "dataId":"0x47e589152b0d21a3:0x9500fa121434b01a",
+    "placeId":"ChIJoyENKxWJ5UcRGrA0FBL6AJU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Les Bistrophiles",
+    "address":"44 Rue du Val, 77160 Provins, France",
+    "website":"https:\/\/www.facebook.com\/LesBistrophiles",
+    "phone":"+33 1 64 01 46 94",
+    "latitude":48.5608333,
+    "longitude":3.2966667,
+    "rating":4.4,
+    "reviews":505.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSx1XuwantVbrN7fuwe_BMC4UnJx9Luzv4thC4dGymj3l_dAQc4U-MJtO54AG-XZjbKxl7FET0dYKyMfJZvPzhsSt8DPw2Wlx208SEZixBZksDfj9pl7XcxWuwq5VorbdXaMsobU=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":7.0,
+    "dataId":"0x47ef31af9480463f:0x5c971506bb0d763c",
+    "placeId":"ChIJP0aAlK8x70cRPHYNuwYVl1w",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Poke Sky",
+    "address":"14 Rue du Marché, 77120 Coulommiers, France",
+    "website":"https:\/\/www.pokesky.fr\/",
+    "phone":"+33 1 64 82 00 22",
+    "latitude":48.8140076,
+    "longitude":3.0845414,
+    "rating":4.6,
+    "reviews":84.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwu0T7ZF3_KYU_FOTU8xmIFuqWN2QWaci7GbcBOTjrOMJ8VX4d0aGGWFTnSqk8-98kW_pTJMElgvSD0okqjrLSUT7POtuUwT6wPXbps5hJaL--Q7FzKY9rHw0vQRDNG_QymQpxL9w=w199-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":28.0,
+    "dataId":"0x47e8b1302149d2a5:0x7e0fbb75b84ebde5",
+    "placeId":"ChIJpdJJITCx6EcR5b1OuHW7D34",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Au Bureau - Pub et Brasserie",
+    "address":"Rte de Moret, 77140 Nemours, France",
+    "website":"https:\/\/www.aubureau.fr\/restaurant-brasserie\/au-bureau-nemours",
+    "phone":"+33 1 60 51 05 78",
+    "latitude":48.2801362,
+    "longitude":2.6981827,
+    "rating":4.3,
+    "reviews":1649.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzEEwXGoAVtBTirKhgiIf2zOFCbsvqnvHVZc3Y9l2f-N6CA3Vcpk8RWpzMMlEdWI5FGdSKVPhnHPtzCy2thR6lai8pbU4gz5-93SN_E2ZBRotQRW2oCtWYWojPl3ZBf_gAOjg56=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47e589718c46d33d:0x9883b9294efb5c86",
+    "placeId":"ChIJPdNGjHGJ5UcRhlz7Tim5g5g",
+    "mainEmail":"cindy.ab.nemours@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"OCEZAM chaumes en brie",
+    "address":"5 Av. du Gén Leclerc, 77390 Chaumes-en-Brie, France",
+    "website":"http:\/\/www.ocezam77.fr\/",
+    "phone":"+33 7 82 75 80 44",
+    "latitude":48.6676203,
+    "longitude":2.8426787,
+    "rating":4.3,
+    "reviews":127.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwvFx0JNStm-ibSJFte5OMwC-Nxvw6niFn8VtH5McMy7ORQx0YcJ8lqAWCzRNU-8YdTt5gL30llwC_HBFn_CIqY-unP88RG76eEvUa9WbzgsYYOC9EFil8oH-J3iwJM4-MJDGO4=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":36.0,
+    "dataId":"0x47ef55959e74f63d:0xb72815950b108666",
+    "placeId":"ChIJPfZ0npVV70cRZoYQC5UVKLc",
+    "mainEmail":"food.ocezam77@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Delights 77",
+    "address":"24-26, Rue Bertrand Flornoy, 77120 Coulommiers, France",
+    "website":"https:\/\/www.facebook.com\/profile.php",
+    "phone":"+33 1 64 03 49 22",
+    "latitude":48.8112661,
+    "longitude":3.082921,
+    "rating":4.2,
+    "reviews":248.0,
+    "type":"Turkish restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzYWhi_OGRONUOZ5imoZkb1BjjESEOmLcm1_j_BE-6PbCb3xIoiH2l1oUZaNtEZc2GUvJTVKorVl45vgwFbuG_f9Cj4Zwg8x4QcsEtZP2lkDu2kMpgzCls3uml6KEGJ3DXfSxIt=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":26.0,
+    "dataId":"0x47e8b0cc356b063f:0x720885eadcff434",
+    "placeId":"ChIJPwZrNcyw6EcRNPTPrV6IIAc",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"R.mana | Restaurant Boutique (77)",
+    "address":"11 Rue de la Libération, 77000 Vaux-le-Pénil, France",
+    "website":"https:\/\/rmana.fr\/",
+    "phone":"+33 1 64 52 09 09",
+    "latitude":48.5328127,
+    "longitude":2.6728109,
+    "rating":4.8,
+    "reviews":417.0,
+    "type":"Fine dining restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzJewm3SztchcjfTiTYPbHYYQnqnBZPLzuAzPeTjajTBepSTjUU7nwA9OTg9mYRh7wjDIJ-buNjV8Z06727SNJZXJZt5fIGpzVo8OR9Q-Dt-anTwg4QAyw38c8bfOxIQaJtID_sqw=w138-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47e5fb11611c1c3f:0xb62746a3538ced6c",
+    "placeId":"ChIJPxwcYRH75UcRbO2MU6NGJ7Y",
+    "mainEmail":"contact@rmana.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Maryland",
+    "address":"2 Rue du Miroir, 77000 Melun, France",
+    "website":"http:\/\/lemarylandmelun.com\/",
+    "phone":"+33 1 64 37 08 83",
+    "latitude":48.539182,
+    "longitude":2.6590709,
+    "rating":4.4,
+    "reviews":212.0,
+    "type":"French restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPw4jXttSseruoLfOsmK37HACM8YVZZUpRF2nlJ=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "hungarian restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":9.0,
+    "dataId":"0x47e5fa64a6b19fab:0x8bf8b8e24ccee116",
+    "placeId":"ChIJq5-xpmT65UcRFuHOTOK4-Is",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Brick à Brack",
+    "address":"25 Rue du Grand Cerf, 77100 Meaux, France",
+    "website":"https:\/\/www.instagram.com\/brickabrack_meaux\/",
+    "phone":"+33 9 83 97 48 08",
+    "latitude":48.9586924,
+    "longitude":2.8800997,
+    "rating":5.0,
+    "reviews":248.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyaAMYSRItj_XuaZ6ne0245FYtvsBGG_mS5pSiG9lOkNzVuJ9FRXOI7lQvrrsAp5syYrRxFJz72XrkfV7gw7iSmnbqkQgK1mcS3gxjLaP_YedCdPktnxrkqVUJgy5X4doUUWxbEQA=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e8a111075bb6a9:0xd889180e66c1b234",
+    "placeId":"ChIJqbZbBxGh6EcRNLLBZg4Yidg",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"BAY Kebab",
+    "address":"40 Rue de Paris, 77140 Nemours, France",
+    "website":"https:\/\/www.instagram.com\/baykebab77140",
+    "phone":"+33 1 72 99 30 20",
+    "latitude":48.2673225,
+    "longitude":2.6952311,
+    "rating":4.1,
+    "reviews":99.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyRovUgJzNW5WtlWDLCNeXMQUJcde8Daql9Wal1cJtLOupx0mXamne4KRYfSSv6KwBp2gDsvbSgNS-VRkKeB77ugo8frTMCzgrrYpX2eXLnX1EeevcbiJJdgYGpjj7E0RjIYIWX=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":39.0,
+    "dataId":"0x47e5898a8f4ff8ab:0x9040083a5856591e",
+    "placeId":"ChIJq_hPj4qJ5UcRHllWWDoIQJA",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"McDonald's",
+    "address":"Bd de la Marne, 77120 Coulommiers, France",
+    "website":"http:\/\/www.restaurants.mcdonalds.fr\/mcdonalds-coulommiers",
+    "phone":"+33 1 64 75 10 79",
+    "latitude":48.8037697,
+    "longitude":3.0882568,
+    "rating":4.1,
+    "reviews":3253.0,
+    "type":"Fast food restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwrBgZEuxl3zKfhe01tFzTgJy2igFjk3E3Adm2gq88kauItGab6iAmP2rQmJT8B71Mjd6lRbPKhw_Qg7xhYSBYNvbjvXnaEjE9CPWHbmYC437_FswS4Kl5wGDNuB47NMBnO859BSA=w80-h106-k-no",
+    "description":"Iconic fast-food burger & fries chain. Classic, long-running fast-food chain known for its burgers & fries.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":39.0,
+    "dataId":"0x47e8b7f346b70641:0xf6ead964545d5de3",
+    "placeId":"ChIJQQa3RvO36EcR411dVGTZ6vY",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Banquet des Troubadours",
+    "address":"14 Rue Saint-Thibault, 77160 Provins, France",
+    "website":"https:\/\/www.provins-banquet-medieval.com\/",
+    "phone":"+33 6 70 50 08 58",
+    "latitude":48.5612721,
+    "longitude":3.2950763,
+    "rating":4.8,
+    "reviews":744.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSy8qhz8zZKw_9q5gMNYg7TcZYnJfvCc5aC8M-HRkgTMHsqn6GRNt4iy89fvSYdSzjMd2oExY0chTPDdv4XXTErZPp8PEWBGtKI0RwrhOXhJu1fN0_pk95uG5Vyei--ZemvxrsY5gQ=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "hungarian restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47ef31af7a3d1941:0x7f96df54e0dec975",
+    "placeId":"ChIJQRk9eq8x70cRdcne4FTfln8",
+    "mainEmail":"banquetdestroubadours@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Trattoria du Val",
+    "address":"49 Rue du Val, 77160 Provins, France",
+    "website":"https:\/\/trattoriaduval.fr\/",
+    "phone":"+33 9 75 95 82 46",
+    "latitude":48.5607851,
+    "longitude":3.2960073,
+    "rating":4.5,
+    "reviews":1579.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOrLTOhObXbdSBIMCyhhYuM2VpLDRSUF2taodpy=w137-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47ef31e356e973a9:0x21339ecb6743912e",
+    "placeId":"ChIJqXPpVuMx70cRLpFDZ8ueMyE",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Croix d'Or",
+    "address":"1 Rue des Capucins, 77160 Provins, France",
+    "website":"https:\/\/provins.net\/la-croix-dor\/",
+    "phone":"+33 1 64 00 01 96",
+    "latitude":48.5598126,
+    "longitude":3.2952916,
+    "rating":4.6,
+    "reviews":671.0,
+    "type":"Modern French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSySjIcfj-asMN_1nOQFiezeB4P-50fwbZjA7vQ4A5juaIf3ze43040swYw3BGX0GzLQ9P2J2KCGUuGBzx3OYC5r3tWwEYhDygdtjTundd5DJnUYiOGZib3IczqObE-9Okq8v2PgrA=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47ef31afa7c30aad:0x43a0e72ed389748",
+    "placeId":"ChIJrQrDp68x70cRSJc47XIOOgQ",
+    "mainEmail":"herve-prigent.la-croix-dor@wanadoo.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"A la p'tite Savoie",
+    "address":"11 Rue de la Friperie, 77160 Provins, France",
+    "website":"https:\/\/www.facebook.com\/A-la-Ptite-Savoie-1701817103415726",
+    "phone":"+33 1 64 01 48 49",
+    "latitude":48.56,
+    "longitude":3.2997222,
+    "rating":4.9,
+    "reviews":749.0,
+    "type":"French restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzaJ6uRgHyhaKSXUtVVYJaa0ueaigjrsy9glX4CHzYKM4MQA-p7VQcYHtG6Nxnd26JBUbsn6KZk68IxXBrJnoJkWEiqTmirurBfimNkaRetcpTu7WshjkCl2cBpkal0Gbpq5dO_PQ=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":12.0,
+    "dataId":"0x47ef31b046ea26ad:0xcf8adcd2d2e12183",
+    "placeId":"ChIJrSbqRrAx70cRgyHh0tLcis8",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Les Prémices",
+    "address":"12 Av. Blaise de Montesquiou, 77780 Bourron-Marlotte, France",
+    "website":"http:\/\/www.restaurant-les-premices.com\/",
+    "phone":"+33 1 64 78 33 00",
+    "latitude":48.3394839,
+    "longitude":2.6974732,
+    "rating":4.5,
+    "reviews":242.0,
+    "type":"French restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzPEoU64htAgAdLIkrKtv8kFH8MQVXx8wUN4TETPo-Gn_sWOXIctFyasxCvoOZp042cQ4pZOwgGyvMC9Ka_aAP3m7m1Sk7qaEfqlmaRmXz4-oWdWH2HGG83F_luopwSAqLaxt0OQw=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":71.0,
+    "dataId":"0x47e58b6d11af21ad:0x5362c2ce54db6181",
+    "placeId":"ChIJrSGvEW2L5UcRgWHbVM7CYlM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Maxancs Fried Chicken",
+    "address":"21 Pl. Dupont Perrot, 77370 Nangis, France",
+    "website":"https:\/\/www.maxancschicken.com\/",
+    "phone":"+33 6 22 92 28 57",
+    "latitude":48.5566605,
+    "longitude":3.0120165,
+    "rating":4.0,
+    "reviews":49.0,
+    "type":"Chicken restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwRWPyhwJcbrjWM1pYutgFGcZisaJ3-WW0nB_V7drD-L9-4wLzMjgbNDLYT5j3uR0a9yzhuFdap3DabHSkiFFx1CRlDoJXQ-dgga894meMCLL1mL6ykzbKQV4LSkKfaR82Ml4Vt=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":12.0,
+    "dataId":"0x47ef4fcf775b3cad:0x3f5d7080191d8dba",
+    "placeId":"ChIJrTxbd89P70cRuo0dGYBwXT8",
+    "mainEmail":"maxancschicken@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant l'Entre Deux | Restaurant Gastronomique (77)",
+    "address":"35 Quai Victor Hugo, 77140 Nemours, France",
+    "website":"https:\/\/www.l-entre-deux-restaurant-nemours.fr\/",
+    "phone":"+33 1 60 55 12 46",
+    "latitude":48.2649894,
+    "longitude":2.6934929,
+    "rating":4.8,
+    "reviews":303.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzlLQEmaRXRRl5AZ5Q9mdzGWVdO5bDBxBdm8_VXwECx_tVR_GEMSgUriZkTSwhS-lCTT_IuimAR47AGNiJWO2mBnqVZ0saOVhM3RutxCZMzsJV9XmjpKyoh5shVnie8OZTaH4Lqeg=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":1.0,
+    "dataId":"0x47e58975aca1b24b:0x12eaf89fe108405f",
+    "placeId":"ChIJS7KhrHWJ5UcRX0AI4Z_46hI",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Picardeau",
+    "address":"5 Rue du Picardeau, 77140 Nemours, France",
+    "website":"https:\/\/lepicardeau.com\/",
+    "phone":"+33 1 60 51 04 33",
+    "latitude":48.2683014,
+    "longitude":2.6968614,
+    "rating":4.5,
+    "reviews":194.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSypBnwAuWwsEbdJnZfcmLEgF-Ma9DmcDBv4A0gEVW5oOStDdyo4p0YRjRC-NMqImOVXv4dtZxV9ALHxHGKBkcQeQujXHSDHlCvPmu27-q7V5N-v29NNjbk0pnq9KHVyC5G-bF5Faw=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e5896dc706a749:0x804f3152b061c01f",
+    "placeId":"ChIJSacGx22J5UcRH8BhsFIxT4A",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Cirkus - Brasserie\/restaurant",
+    "address":"Pl. de l'Hôtel de Ville, 77100 Meaux, France",
+    "website":"http:\/\/www.le-cirkus.fr\/",
+    "phone":"+33 1 64 35 75 42",
+    "latitude":48.9584233,
+    "longitude":2.8767825,
+    "rating":4.2,
+    "reviews":1295.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOkGO9LcW3IASc-142dtOIoWUVEz_-qbnLSBOxH=w137-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47e8a189d637d949:0x301e69488dbc02a6",
+    "placeId":"ChIJSdk31omh6EcRpgK8jUhpHjA",
+    "mainEmail":"contact@le-cirkus.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Domino's Pizza",
+    "address":"107 Av. Carnot, 77140 Saint-Pierre-lès-Nemours, France",
+    "website":"https:\/\/www.dominos.fr\/",
+    "phone":"+33 1 60 39 64 30",
+    "latitude":48.2801132,
+    "longitude":2.682708,
+    "rating":4.3,
+    "reviews":177.0,
+    "type":"Pizza restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOSqM5VPNVkKvJNoQDo3oAs6jTn-eIe_DrLgzdh=w163-h92-k-no",
+    "description":"Longtime pizza chain known for delivery. Delivery\/carryout chain offering a wide range of pizzas & a variety of other dishes & sides.",
+    "openState":null,
+    "serviceOptions":[
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":61.0,
+    "dataId":"0x47e58906aa2efab1:0x66dab173cc497f07",
+    "placeId":"ChIJsfouqgaJ5UcRB39JzHOx2mY",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Sakura Sushi",
+    "address":"81 Rue Fbg Saint-Nicolas, 77100 Meaux, France",
+    "website":"https:\/\/sakurameaux.fr\/",
+    "phone":"+33 1 64 33 74 85",
+    "latitude":48.9580148,
+    "longitude":2.8897502,
+    "rating":4.4,
+    "reviews":459.0,
+    "type":"Japanese restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyKPBhWqJ3g1VWZqtPw1oKDsRND6NWquik5mpsYI0rcL1_37xHD7ZV0-mF7_IybaBvOSfmV_pmF0TyZ1pAAzQz-Uyl8lZP9uVj_BFtajjKdJb7Apz1Ks0S36_36g3Ak9MjN0oPyjA=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":17.0,
+    "dataId":"0x47e8a1b7208e65b1:0xcd234e1c95f6a253",
+    "placeId":"ChIJsWWOILeh6EcRU6L2lRxOI80",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Burger King",
+    "address":"24 Av. du Général de Gaulle, 77140 Nemours, France",
+    "website":"https:\/\/www.burgerking.fr\/restaurants",
+    "phone":"+33 1 85 48 00 40",
+    "latitude":48.2675026,
+    "longitude":2.7118266,
+    "rating":3.8,
+    "reviews":588.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyw5PP1IEUokSJRyxgTYUiFP0rDlxIVGuSu1KLMQ1QDbfd4XktuiXWOGNaf4F17tQ2DCVwEvi5glJ9D-1H2e36xPR2S_dwVKVDnKcZTB1P-IVybxkzsfK3kaz_rcDM8qu5rdQgR=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":35.0,
+    "dataId":"0x47e58981a761164b:0x93798da9e70e6221",
+    "placeId":"ChIJSxZhp4GJ5UcRIWIO56mNeZM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Cinco Pizza",
+    "address":"6 Rue des Bordes, 77160 Provins, France",
+    "website":"https:\/\/www.facebook.com\/CincoPizza",
+    "phone":"+33 1 64 00 10 10",
+    "latitude":48.5579151,
+    "longitude":3.3031671,
+    "rating":4.2,
+    "reviews":326.0,
+    "type":"Pizza restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSz9NYMb-dlN4illzuLkAK9WKo7sR9jl8kTyaT7GJTK_cniDKbDuzn4GrOaeK0Wld9B8i4l5N8kOhnj-MGrK23YL0kGSjdbfbG5uLI9jNcfx7PkxuV4WANLO3-jOBjPs044wpFWV=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":57.0,
+    "dataId":"0x47ef31b135bf854f:0xaac907d1e4e72b6d",
+    "placeId":"ChIJT4W_NbEx70cRbSvn5NEHyao",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Riverside",
+    "address":"9 Pl. Lafayette, 77100 Meaux, France",
+    "website":"http:\/\/riverside-pub-meaux.fr\/",
+    "phone":"+33 1 60 38 02 03",
+    "latitude":48.9578945,
+    "longitude":2.8765079,
+    "rating":4.1,
+    "reviews":1960.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipN3rr5RdY_oDuXNgE3Ne4KOeMWVvKYMMVkg1I9c=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47e8a1025925a84f:0xbec79f59a44d0148",
+    "placeId":"ChIJT6glWQKh6EcRSAFNpFmfx74",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"LE CHABADA",
+    "address":"4 Rue de la Boissière, 77140 Moncourt-Fromonville, France",
+    "website":"https:\/\/lechabada-restaurant-moncourt-fromonville.eatbu.com\/",
+    "phone":"+33 1 64 28 76 83",
+    "latitude":48.3087797,
+    "longitude":2.7077543,
+    "rating":4.6,
+    "reviews":449.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwaUjOLq2jvK4q23jP93zk_OGlixO0k_Z-j2gxPRAjB7rOjUYREXH2_ORGerbI3K35usCR70Y3kbqcoK8ExDElAjcqEZireYNhEM-JX4OdbmN8iHiy__ssL9BgykboSV9I6amZW=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":55.0,
+    "dataId":"0x47e58bc17a05a54f:0x83ab35b00bfdc663",
+    "placeId":"ChIJT6UFesGL5UcRY8b9C7A1q4M",
+    "mainEmail":"chabada77140@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Avant Goût",
+    "address":"5 Rue Abélard, 77160 Provins, France",
+    "website":"https:\/\/www.facebook.com\/profile.php",
+    "phone":"+33 1 64 01 64 24",
+    "latitude":48.5609253,
+    "longitude":3.3027928,
+    "rating":4.7,
+    "reviews":134.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipM8pvib3myI2jc4-tcZgN3HplDIJvI-qnmvFyR5=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47ef31a0fb9e044d:0x36edc566a968429a",
+    "placeId":"ChIJTQSe-6Ax70cRmkJoqWbF7TY",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Sushi Mood",
+    "address":"780 Côte de la Justice, 77100 Mareuil-lès-Meaux, France",
+    "website":"https:\/\/www.sushi-mood.com\/",
+    "phone":"+33 1 60 32 24 26",
+    "latitude":48.9350644,
+    "longitude":2.8792058,
+    "rating":4.5,
+    "reviews":2944.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwwvgYcrhLGHxF3sHxttQ0I9-Q-e7XL9pJBCf_Sj3RKp_z9S47Stcx4Lu0GjsVoYyzelqGFipfvQdmhQqR49UwQ7mdZffyAxjVkrIzpFp-qSFh245whW5wKrbqU_4xtIP_29Bli=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47e8a14fac5f14b5:0xabf5a976e10c589d",
+    "placeId":"ChIJtRRfrE-h6EcRnVgM4Xap9as",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"G LA DALLE - Évry-Courcouronnes",
+    "address":"7 Pl. Pierre Mendès France, 91000 Évry-Courcouronnes, France",
+    "website":"https:\/\/evry.g-la-dalle.com\/",
+    "phone":"+33 1 69 23 34 94",
+    "latitude":48.62662,
+    "longitude":2.4288789,
+    "rating":4.2,
+    "reviews":460.0,
+    "type":"Hamburger restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyGM6XmfMCHOszwiLDUCCJzHZ_mc5Bw-bGBLGK8XCy2uCjD2n_ZWbJ3PuSEc8DdnEVmI6xwcz6ji2xjzIB6zmT7KDt5F-I1U7TVSAM3uHpC7GtFStzocZVnOP1J56PqqaXhhw8tRw=w194-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47e5df7ef11936b5:0x7a163346d7fcb7a",
+    "placeId":"ChIJtTYZ8X7f5UcRest_bTRjoQc",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Instant",
+    "address":"6 Pl. Honoré de Balzac, 77160 Provins, France",
+    "website":"https:\/\/www.restaurantlinstant.com\/",
+    "phone":"+33 1 64 00 01 19",
+    "latitude":48.5596418,
+    "longitude":3.2973369,
+    "rating":4.5,
+    "reviews":533.0,
+    "type":"Asian fusion restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyzwiGvgVbyLDQKmFP4j2Sf2XMENfYb6HSRWTPUlB-ys0o08BkZ-K0njtZFd61NpiPBW7aWjB7BvbCo-_eS8BsXkPuFTfp1ctH1g_hd1zWzn6nL2BoS1fK_B5TEgey59lyc9Z0=w194-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47ef31d43ae054b5:0x8b5be1064179b347",
+    "placeId":"ChIJtVTgOtQx70cRR7N5QQbhW4s",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Chemin d'Himalaya",
+    "address":"12-14 Cr Mgr Roméro, 91000 Évry-Courcouronnes, France",
+    "website":"https:\/\/le-chemin-dhimalaya-evry-courcouronnes.fr\/fr",
+    "phone":"+33 1 60 77 87 45",
+    "latitude":48.6230093,
+    "longitude":2.4282363,
+    "rating":4.5,
+    "reviews":892.0,
+    "type":"Nepalese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxSaUDILiXRm5MJFNmcz3HUxQWcToeEKkWCb_cSYnETMvfbZPMa6jxuKHeK1u0S3luaGUMnpcdvRcgWrUvTjr-_T8qB0rsRjfoA8lJxlmgT_wpVGsbeS7xz-iApZ7n2PmePZfaF=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":7.0,
+    "dataId":"0x47e5de04d7997b4d:0xc76bf6c6992ae9b2",
+    "placeId":"ChIJTXuZ1wTe5UcRsukqmcb2a8c",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Hôtel Restaurant de la Gare",
+    "address":"45 Av. du Maréchal Foch, 77370 Nangis, France",
+    "website":"http:\/\/www.hoteldelagare-nangis.fr\/",
+    "phone":"+33 1 64 08 01 04",
+    "latitude":48.5611176,
+    "longitude":3.0123232,
+    "rating":4.4,
+    "reviews":287.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipP1CATvn1JL1z7-GAOQq0xkLZ0QXnfMD62Q_VV9=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+
+    ],
+    "keyword":[
+      "zhejiang restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47ef4e551c1ced53:0xb843f9c806bc135f",
+    "placeId":"ChIJU-0cHFVO70cRXxO8Bsj5Q7g",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Cabana",
+    "address":"40 Rue de Varennes, 77120 Coulommiers, France",
+    "website":"https:\/\/lacabana-restaurant.eatbu.com\/",
+    "phone":"+33 9 83 06 22 92",
+    "latitude":48.8133854,
+    "longitude":3.0773262,
+    "rating":4.7,
+    "reviews":172.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwHMbpQOzrNz7mCBfl4984W5nT1wm-Xx3Aoe9VtbUia87qLbzCaZQ54-G_eDjLIDQOthlqRU3tCJqJvq8UJBaUA6eklKgsByRCYprADB370JsKHxm6Sj7KZW6UzdfMSQKNrX4Jx=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":8.0,
+    "dataId":"0x47e8b1f748bb9453:0x496b7861e2596341",
+    "placeId":"ChIJU5S7SPex6EcRQWNZ4mF4a0k",
+    "mainEmail":"lacabana77120@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Paradis Oriental",
+    "address":"14 Rue Saint-Liesne, 77000 Melun, France",
+    "website":"https:\/\/frmapsy.com\/business\/le-paradis-oriental-_5jXFfCs",
+    "phone":"+33 1 60 69 48 76",
+    "latitude":48.5397215,
+    "longitude":2.6652566,
+    "rating":4.4,
+    "reviews":75.0,
+    "type":"Moroccan restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyBsV4ZgUgOt_jBAr_wlPJ8ULZMZ6wpCXhT85j_qRlConc7sXNK2hmQvppUg_jAGLRNhn15U7VwiGq3PRTvnxK2yrgY2wc3wP_Lhoa5koM9LKHgnWBnvrN8x5wrdnE17nPBKZDxDg=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":6.0,
+    "dataId":"0x47e5fa6f904ee053:0x2b7cc535e6bf5cf2",
+    "placeId":"ChIJU-BOkG_65UcR8ly_5jXFfCs",
+    "mainEmail":"hello@mapszi.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Buffalo Grill Provins",
+    "address":"15 Av. de la Voulzie, 77160 Provins, France",
+    "website":"https:\/\/www.buffalo-grill.fr\/nos-restaurants\/provins",
+    "phone":"+33 1 60 58 08 53",
+    "latitude":48.5485063,
+    "longitude":3.2938764,
+    "rating":4.2,
+    "reviews":3695.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwyCCzIkyb7cuyKm7u3gD2w0iM0nxrDzNXAL8I9Gk4T8XB-aPJKKlHLMiWb5hEu6w1AC95fMPahDZDqM3jg6JHTetXug8Lr9mI_mWyWCoGa9vDzRZV9AgqN5FUoYQju7hI709D2=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":19.0,
+    "dataId":"0x47ef30524d15c6b9:0x7d2514a7a42659b0",
+    "placeId":"ChIJucYVTVIw70cRsFkmpKcUJX0",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Territoires de France - AUTOGRILL Nemours A6",
+    "address":"Aire de, A6, 77140 Nemours, France",
+    "website":"https:\/\/www.autogrill.fr\/aire-autoroute\/aire\/autogrill-aire-de-nemours-a6",
+    "phone":"+33 1 64 78 51 70",
+    "latitude":48.2633482,
+    "longitude":2.722356,
+    "rating":3.9,
+    "reviews":455.0,
+    "type":"Self service restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSynehWPI8vItnYwtwJ7OYUMaaw_FSMWJEJxt1js9jKE2Iqe6X19zdfm81VSIEaoFpfmeJug2zmKqpNq106K3UWNoVEFPSCo4i4VyB-fIm76wwySHAM4x2L4MVCSipkv5yDRh_s=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e589154c18d1b9:0x59929a1d6e84a7f6",
+    "placeId":"ChIJudEYTBWJ5UcR9qeEbh2aklk",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant Osaka",
+    "address":"1 Bd Charles Gay, 77000 Melun, France",
+    "website":"http:\/\/www.osaka77.fr\/",
+    "phone":"+33 1 64 37 02 86",
+    "latitude":48.534164,
+    "longitude":2.657223,
+    "rating":4.8,
+    "reviews":1146.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzozMd3karbk9Xeez4tDWtRgq0dIy2a7qh5CaSWF9zE089p-8h10CoyMzFd8yciJFN2xaUWTJHL4UXIWELh0JptyXiC9vOJy2LbxoVj-U1IEAJm-JU7GCgM4amkn_MeJkYWKn8=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47e5fa7c147325b9:0x3155a36485ebdcf5",
+    "placeId":"ChIJuSVzFHz65UcR9dzrhWSjVTE",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Veng Hour",
+    "address":"2 Bd de l'Europe-Valéry Giscard d'Estaing, 91000 Évry-Courcouronnes, France",
+    "website":"http:\/\/www.venghour.com\/",
+    "phone":"+33 1 69 36 31 10",
+    "latitude":48.6286342,
+    "longitude":2.426499,
+    "rating":3.7,
+    "reviews":483.0,
+    "type":"Asian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSx3MfrzQjd2m5olagmXQ7FF3dUtfZaNqRv3MNcInDjc6cAvVLE_UHf2aFBcmpaMrbf0C3ZghLzwDq_PpitkfJlOYNDQ89N752eepYFT4fiLsob2ldtuvvcEDe6cgvManT8Qww=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Identifies as women-owned"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":3.0,
+    "dataId":"0x47e5de179e6d49b9:0xbcce8de1bcccda0f",
+    "placeId":"ChIJuUltnhfe5UcRD9rMvOGNzrw",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Terrasse du Moulin de Nemours",
+    "address":"19 Rue Sanson, 77140 Nemours, France",
+    "website":"https:\/\/www.facebook.com\/laterrassedumoulin77\/",
+    "phone":null,
+    "latitude":48.2646296,
+    "longitude":2.6974467,
+    "rating":4.4,
+    "reviews":323.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipNI4Z6sUIze5d7rsSbgg35qkMb3RDruutYYDI2Y=w151-h92-k-no",
+    "description":null,
+    "openState":"Temporarily closed",
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":15.0,
+    "dataId":"0x47e58921681153b9:0xe8daf08950da9e7",
+    "placeId":"ChIJuVMRaCGJ5UcR56kNlQivjQ4",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O'PARLOIR - RESTAURANT \/ BRASSERIE",
+    "address":"38 Rue Aristide Briand, 77100 Meaux, France",
+    "website":"https:\/\/www.o-parloir.fr\/",
+    "phone":"+33 1 60 22 66 86",
+    "latitude":48.9560712,
+    "longitude":2.8862666,
+    "rating":4.5,
+    "reviews":1740.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSw5c3v43cRpdRHGmGlYdWdCM7I-5pTdXiIxHvei1aMFEJEKQp8tBHJx8iQPA_q8FpSxy86dgrBKR15PJml1RQS4rifIMEC0BWRvirz3hTR83lWJs-Ki_NYYSSRTw1F-l9wjYB1V=w189-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47e8a10f8b2cbe57:0x202e826c176a76b1",
+    "placeId":"ChIJV74siw-h6EcRsXZqF2yCLiA",
+    "mainEmail":"contact@o-parloir.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Medizou",
+    "address":"4 Av. du Général Leclerc, 77610 Fontenay-Trésigny, France",
+    "website":"http:\/\/www.medizoulapizzeria.fr\/",
+    "phone":"+33 1 64 16 07 24",
+    "latitude":48.7070482,
+    "longitude":2.8702294,
+    "rating":4.8,
+    "reviews":382.0,
+    "type":"Pizza restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPtI23S16kqLMGc7OKX8UNt52MfD0nyQ8kpirrP=w92-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e8ab14ebf85555:0xe92a303ee831a436",
+    "placeId":"ChIJVVX46xSr6EcRNqQx6D4wKuk",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Kohistan Palace",
+    "address":"71 Rue Fbg Saint-Nicolas Rue du, 77100 Meaux, France",
+    "website":"http:\/\/www.palaisdukohistan.com\/",
+    "phone":"+33 1 64 33 64 91",
+    "latitude":48.9580959,
+    "longitude":2.888968,
+    "rating":4.5,
+    "reviews":935.0,
+    "type":"Indian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipMwaQgBYfeXeQLP6Om7TFT933TU1XvSiCZcVS5S=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e8a10ee2f36fbd:0x262ad790f1cefb5b",
+    "placeId":"ChIJvW_z4g6h6EcRW_vO8ZDXKiY",
+    "mainEmail":"contact@palaisdukohistan.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Nemours",
+    "address":"2 à 7 Galerie de Nemours, 2 Place Colette, 75001 Paris, France",
+    "website":"http:\/\/www.lenemours.paris\/",
+    "phone":"+33 9 72 99 37 93",
+    "latitude":48.8630568,
+    "longitude":2.3365269,
+    "rating":4.0,
+    "reviews":2086.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwCDiu5fqnQuoaFkgpvb-7dpFIQ8WM5j6ariB2Hug-folG-K0xmZKq_SAp-L9DrawrKj1Taz_hRBXCg9xvQFS9l1rfqX6-M_nEHc0_3l_LvUorHyyKqSgT-mjtdN1514aIoF0-K=w163-h92-k-no",
+    "description":"Chic spot for breakfast & sandwiches. Fashionable brasserie with a terrace serving breakfast, baguette sandwiches & snacks, plus drinks.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":67.0,
+    "dataId":"0x47e66e25b40c80bd:0x388be35c6c660598",
+    "placeId":"ChIJvYAMtCVu5kcRmAVmbFzjizg",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O' Sandwich Caribbean",
+    "address":"8 Pl. Pierre Mendès France, 91000 Évry, France",
+    "website":"https:\/\/osandwichcaribbean.com\/",
+    "phone":"+33 1 75 66 66 34",
+    "latitude":48.6266172,
+    "longitude":2.4291872,
+    "rating":4.0,
+    "reviews":222.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipO0MlnDXRVl8tM06xFAfakkBFruHRx27d3rWc_N=w175-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Évry",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":10.0,
+    "dataId":"0x47e5de1bb156d8c3:0x9be0d90eadaf9d0",
+    "placeId":"ChIJw9hWsRve5UcR0Pna6pANvgk",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Juventus",
+    "address":"1 Rue Moulin de la Ruelle, 77160 Provins, France",
+    "website":"https:\/\/www.lajuventus77.fr\/",
+    "phone":"+33 1 64 01 00 00",
+    "latitude":48.5610712,
+    "longitude":3.2958355,
+    "rating":4.2,
+    "reviews":51.0,
+    "type":"Pizza restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwaR38MWiipuI5i_FUxOTcTq6DL4yD40kej40BvA2v7Tz6eVbexRuB3A5bd3m6UUDpXh3SY1_Ae08MQ1dy9gCatMYTkcBCjITFpb_bsB13mAslGBzCl8rVvqkcdYvtMoVpYmOKySr5ZshDb=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":45.0,
+    "dataId":"0x47ef317f9000bc59:0xb2e8d3f9e38a7283",
+    "placeId":"ChIJWbwAkH8x70cRg3KK4_nT6LI",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"McDonald's",
+    "address":"ZAC des Roches, 77370 Nangis, France",
+    "website":"http:\/\/www.restaurants.mcdonalds.fr\/mcdonalds-nangis",
+    "phone":"+33 9 77 76 23 11",
+    "latitude":48.5561233,
+    "longitude":3.0044898,
+    "rating":3.4,
+    "reviews":1811.0,
+    "type":"Fast food restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSy9BlHmmJXgBzahHRrbnCgzsd6iKxQ5fyZzj1auuNQy_lK3hvplzRUkfc6lrgdp4QMVf9k7g-p5LaakFQuF167pfTIa9IehjwId-yPJVHI9RrEXRqz54DpbguyMeP1hisEoE03v=w163-h92-k-no",
+    "description":"Iconic fast-food burger & fries chain. Classic, long-running fast-food chain known for its burgers & fries.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47ef4fad99b5e8c1:0xc7d5c3262f4dc7d9",
+    "placeId":"ChIJwei1ma1P70cR2cdNLybD1cc",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Rajastan",
+    "address":"19 Rue du Marché, 77120 Coulommiers, France",
+    "website":"https:\/\/www.rajastan77.fr\/",
+    "phone":"+33 1 64 03 60 31",
+    "latitude":48.8139677,
+    "longitude":3.0842172,
+    "rating":4.2,
+    "reviews":476.0,
+    "type":"Indian restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwlFbfJmwzmrHJZSTDyn_B4SLmVU6OhytdwIOm7io5DNdu1n0TWdUHqkm6J0Aj1O6i-5_5r_ilURiPObRD4uWwAlv5DubDtBGOvhAcjU0t7HW4YWdXxZOOWwRg9GH16f4_zazzZKg=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":6.0,
+    "dataId":"0x47e8b0cb85c402c1:0xb2e7c0213768bf9",
+    "placeId":"ChIJwQLEhcuw6EcR-Yt2EwJ8Lgs",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Dream's Pizza Fontenay tresigny",
+    "address":"12 Rue Curie, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/dreamspizza.fr\/",
+    "phone":"+33 1 64 84 60 98",
+    "latitude":48.7111683,
+    "longitude":2.8549181,
+    "rating":4.0,
+    "reviews":401.0,
+    "type":"Pizza restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPoKJmNK_s6aTVzYhp3dAZFJXsLTF3pJCRVg0fY=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":18.0,
+    "dataId":"0x47e8ab16e27d04c1:0x7213c3c9f6ec2bb7",
+    "placeId":"ChIJwQR94har6EcRtyvs9snDE3I",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Atelier Asia",
+    "address":"30 Mail de la Grande Haie, 77100 Mareuil-lès-Meaux, France",
+    "website":"https:\/\/atelier-asia.fr\/",
+    "phone":"+33 1 60 41 30 89",
+    "latitude":48.9377051,
+    "longitude":2.8779733,
+    "rating":4.5,
+    "reviews":94.0,
+    "type":"Asian restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOlVQpK-eHAfjbBkU9K4Zvv3jjMZ1zmUIZeG6qJ=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":15.0,
+    "dataId":"0x47e8a14a30216cfd:0x764d1a7b35bcf3b3",
+    "placeId":"ChIJ_WwhMEqh6EcRs_O8NXsaTXY",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Ardoise",
+    "address":"60 Rue du Général de Gaulle, 77000 Melun, France",
+    "website":"https:\/\/www.facebook.com\/Lardoise-807514849300491\/",
+    "phone":"+33 1 60 66 68 21",
+    "latitude":48.5421933,
+    "longitude":2.6605735,
+    "rating":4.7,
+    "reviews":208.0,
+    "type":"French restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSx_3zBVBRVQhvC6jub4smDfRPP2ESGyH0m6FHLKGjzNPESHaiHBWcjq6zktIfd-lBsizm0YowPEXiZxM81ySqw9gJhiKC8KmKWxTTq4V5RixY4wOluz6sCSxYlsBBtIA1wPHyo=w184-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":5.0,
+    "dataId":"0x47e5fa643c2c20c3:0xf5620fd851223b76",
+    "placeId":"ChIJwyAsPGT65UcRdjsiUdgPYvU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"McDonald's",
+    "address":"Av. de la Voulzie, 77160 Provins, France",
+    "website":"http:\/\/www.restaurants.mcdonalds.fr\/mcdonalds-provins",
+    "phone":"+33 1 64 00 06 42",
+    "latitude":48.551533,
+    "longitude":3.295202,
+    "rating":3.6,
+    "reviews":3040.0,
+    "type":"Fast food restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipM8mK2q6Io8JwZ1Zkh3LMR76GYtXKZb8G5sZKuO=w122-h92-k-no",
+    "description":"Iconic fast-food burger & fries chain. Classic, long-running fast-food chain known for its burgers & fries.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Curbside pickup",
+      "Drive-through",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47ef3053b1089659:0xd3040a026944c0b3",
+    "placeId":"ChIJWZYIsVMw70cRs8BEaQIKBNM",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant Atmosphère",
+    "address":"1 Rue de la Pêcherie, 77120 Coulommiers, France",
+    "website":"https:\/\/menu.tastycloud.fr\/34d29e78d95d2f56834c302533cbb33fb42eedcaec662a40463cc57e19642d0c\/categories",
+    "phone":"+33 1 64 20 96 23",
+    "latitude":48.8120394,
+    "longitude":3.0830385,
+    "rating":4.3,
+    "reviews":639.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwF3akLATYsNnKP88IzENrDdhFMFzzXQViGZ9FsPcOcEh7CKvAAp9jGZtcx56rqCZHytmpPumbi2qd_6GO7HAt7nBTsV1NLEaxn8IAgYKyoEdDAZIKX8-bdRrtWSlFmfbPkle3_=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":5.0,
+    "dataId":"0x47e8b1aa9a9547c7:0xd15cd855b0c0b857",
+    "placeId":"ChIJx0eVmqqx6EcRV7jAsFXYXNE",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"L'Uzine",
+    "address":"6 Rue des Margats, 77120 Coulommiers, France",
+    "website":"https:\/\/luzine-77.fr\/",
+    "phone":"+33 1 64 20 55 58",
+    "latitude":48.8084335,
+    "longitude":3.0966334,
+    "rating":4.0,
+    "reviews":1716.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzQ9z2RgCcDraHxlGLz4M8RAO8Tq38K3lP7SXtf77NGPuz_PeGRTpy4PE9l6jGqLWVFzsLDFW4yXYKHVKfMTus60sbFPDb8K2X0slAY5g5wTHrZdypnDIO6lEU0L9_OUxBRa324=w204-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Onsite services"
+    ],
+    "keyword":[
+      "hungarian restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e8b73020cd8f5f:0x87a177dd5a1d850d",
+    "placeId":"ChIJX4_NIDC36EcRDYUdWt13oYc",
+    "mainEmail":"direction@luzine-77.fr",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Pizzeria Du Moulin",
+    "address":"17 Rue Bertrand Flornoy, 77120 Coulommiers, France",
+    "website":"https:\/\/golookall.com\/pizzeria-du-moulin\/products",
+    "phone":"+33 1 64 65 03 11",
+    "latitude":48.811325,
+    "longitude":3.0835804,
+    "rating":4.0,
+    "reviews":667.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipOO_irOJJz0h7XZ6b_HR4Q7z3LrL44IwThTNDQQ=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":29.0,
+    "dataId":"0x47e8b0cc4aa1a3c7:0xa5721b125cdfdf9d",
+    "placeId":"ChIJx6OhSsyw6EcRnd_fXBIbcqU",
+    "mainEmail":"contact@golookall.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Pizza Visconti",
+    "address":"27 Rue de la Libération, 77370 Nangis, France",
+    "website":"http:\/\/pizzaviscontis77.com\/",
+    "phone":"+33 1 60 67 49 61",
+    "latitude":48.5563687,
+    "longitude":3.0087432,
+    "rating":4.0,
+    "reviews":162.0,
+    "type":"Pizza restaurant",
+    "price":"$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipM3U25MjfOZULshqsOs74KGdlYAttG_kI1aqWWS=w80-h177-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":25.0,
+    "dataId":"0x47ef4fac777a14fb:0x9efd8115e3b719ac",
+    "placeId":"ChIJ-xR6d6xP70cRrBm34xWB_Z4",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Maison sushi",
+    "address":"France, Melun, Pl. Jacques Amyot, 邮政编码: 77000",
+    "website":"http:\/\/www.maisonsushi77.fr\/",
+    "phone":"+33 9 81 62 10 92",
+    "latitude":48.5388114,
+    "longitude":2.6583377,
+    "rating":4.6,
+    "reviews":141.0,
+    "type":"Japanese restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwa8aNI9t0zkHApNUPdIykWx-Hze2SKO42Hxwb-hf-dZQEHJWtrr_qnvabMlQHcil3vnwp03n0v1cm5tO0ojQRdIHZzExlv2qKIzRXLipmNLPeejmPeRkfbJVwCdOuSmcY8AtVK=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":20.0,
+    "dataId":"0x47e5fb372a84ebc7:0x3bfbce3b484fb5cf",
+    "placeId":"ChIJx-uEKjf75UcRz7VPSDvO-zs",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Mie Ayam Wonogiri Pak De Ngongob",
+    "address":"22 Rue Bertaux, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/sites.google.com\/view\/ngongob-company\/accueil",
+    "phone":"+33 7 45 41 76 86",
+    "latitude":48.7069075,
+    "longitude":2.8644388,
+    "rating":null,
+    "reviews":null,
+    "type":"Hot pot restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/streetviewpixels-pa.googleapis.com\/v1\/thumbnail?panoid=hCwQ_9dz8TejNqX4kctY7A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=43.025978&pitch=0&thumbfov=100",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":40.0,
+    "dataId":"0x47e8abd26da1ec5f:0x910371d75a276a05",
+    "placeId":"ChIJX-yhbdKr6EcRBWonWtdxA5E",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Spizzico - AUTOGRILL Nemours A6",
+    "address":"Aire de, A6, 77140 Nemours, France",
+    "website":"https:\/\/www.autogrill.fr\/aire-autoroute\/aire\/autogrill-aire-de-nemours-a6",
+    "phone":"+33 1 64 78 51 70",
+    "latitude":48.2631732,
+    "longitude":2.7215641,
+    "rating":4.4,
+    "reviews":548.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxLfXH_eCT6MOtdqyBOGDmIZO-DuSc0P2rnKYkEQCCIrD1HZc3Hx1ouyK2ZJ_fwG6WXzVBmPm4c199e5rfcHKJddo-GTpBJhQHuzv06yUD7e1kjTIfLS4vT9gzz4j3cQRwwWoGr3g=w103-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":14.0,
+    "dataId":"0x47e589ef22f928c7:0x52d00733f1bf7966",
+    "placeId":"ChIJxyj5Iu-J5UcRZnm_8TMH0FI",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Les Billettes",
+    "address":"17 Av. du Général de Gaulle, 77370 Nangis, France",
+    "website":"https:\/\/www.lechatel.eu\/restaurant-menus-hotel-nangis",
+    "phone":"+33 1 64 08 22 50",
+    "latitude":48.5604002,
+    "longitude":3.0193977,
+    "rating":4.2,
+    "reviews":5.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/streetviewpixels-pa.googleapis.com\/v1\/thumbnail?panoid=wdU0Q5S6bkVzEdlnwiKnYQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=126.468834&pitch=0&thumbfov=100",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Nangis",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":17.0,
+    "dataId":"0x47ef4efe15ab235f:0x930b0c252a97a8bb",
+    "placeId":"ChIJXyOrFf5O70cRu6iXKiUMC5M",
+    "mainEmail":"info@lechatel.eu",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant Yakamoz",
+    "address":"28 Cr Raoult, 77100 Meaux, France",
+    "website":"https:\/\/restaurant-yakamoz-meaux.eatbu.com\/",
+    "phone":"+33 1 64 33 48 08",
+    "latitude":48.958287,
+    "longitude":2.881829,
+    "rating":4.2,
+    "reviews":243.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxURBSrzYik0ctEKxZHlV8PDuBC0m_Uv_BnwyRbFkyyjnGQSmMH962cwJbolF_RYsOZLIz6BTeuoVCg5k3E8MAxd5OlnUdYQoHeYBqE3c9TmKqJqllm__oKUUlAGNlL-3B8CYQ=w108-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e8a1cf44259c5d:0x683709df235907f6",
+    "placeId":"ChIJXZwlRM-h6EcR9gdZI98JN2g",
+    "mainEmail":"cetin.yakamoz77@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Auberge Saint Nicolas",
+    "address":"35 Rue Charles de Gaulle, 77700 Chessy, France",
+    "website":"http:\/\/www.aubergesaintnicolas.fr\/",
+    "phone":"+33 1 60 43 80 00",
+    "latitude":48.8792513,
+    "longitude":2.7641883,
+    "rating":4.5,
+    "reviews":403.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzKScGY2YKz0Y6uaWUcFZnHNnTMt3c8pd_CcyKvgRZVRaNM3dOsLtC0F_2zWXMvG_aoAJvWNQ6rTxiAkgub1U3eorVjGNv6Ur6E_sQx3nEnmJA9PWAVk_vpTpB966b_CUeTt0Ho=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "hungarian restaurant in Meaux",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":17.0,
+    "dataId":"0x47e61cfa813f4263:0x743ec68c61737267",
+    "placeId":"ChIJY0I_gfoc5kcRZ3JzYYzGPnQ",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Pizzeria Renato",
+    "address":"54 Av. de Verdun, 77610 Fontenay-Trésigny, France",
+    "website":"http:\/\/www.pizzeriarenato.net\/",
+    "phone":"+33 1 64 25 25 19",
+    "latitude":48.705302,
+    "longitude":2.8756,
+    "rating":4.4,
+    "reviews":1132.0,
+    "type":"Pizza restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSyMMyX4yVKINpkQWy05GzGTChKIqB7Z-M3ATz3R_dFvxJYCDh4Mxm_L6s_pl7fkOopzHC9GZdfdhY5TJ4K9YGZbVM9fhsiuNx_aH-k-NHWkk2rzaJKDPUL9l1RKNsej5Rdm_48j=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":4.0,
+    "dataId":"0x47e8ab6a4f5a7a63:0x2d2a017c87f0b1b8",
+    "placeId":"ChIJY3paT2qr6EcRuLHwh3wBKi0",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Au César Gourmand",
+    "address":"Pl. du Châtel, 77160 Provins, France",
+    "website":"https:\/\/www.facebook.com\/profile.php",
+    "phone":"+33 1 60 58 81 65",
+    "latitude":48.5621663,
+    "longitude":3.2885118,
+    "rating":4.3,
+    "reviews":159.0,
+    "type":"French restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxnL3hME45tjGyxH-Ki2PDISjM_l8epPDc3u8-SBY-IZ4ef7SQjx9mImCBt5hUwYVN-4gUfRQL-rbrCXXbj9iNh-JxKTCUWNiSSkkDyPuWarsLS1eVngZLqHG8Le0PgaZpO-Vw=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Provins",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":16.0,
+    "dataId":"0x47ef31a7de50e0c9:0x5fad9c35d2b3000d",
+    "placeId":"ChIJyeBQ3qcx70cRDQCz0jWcrV8",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Papote",
+    "address":"35b Rue Murger, 77780 Bourron-Marlotte, France",
+    "website":"https:\/\/la-papote.com\/",
+    "phone":"+33 9 78 80 52 53",
+    "latitude":48.3423805,
+    "longitude":2.7176656,
+    "rating":4.9,
+    "reviews":906.0,
+    "type":"Restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSybdsZokP7LEU9D29Cf2JjhMDy5aPdOZsqlx9FumJKfiksmDHVDsGDfEvFeraVbCmpXMlHSS2h6QTRiTCxxaepKohdOMyW_d-6Yf5NpyHYd-UEGWkube8G7NjKPgi0khgdrG65wMYBdRhA8=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "restaurant in Nemours",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":65.0,
+    "dataId":"0x47e58b1986b1ebc9:0xfccb46a83abcd7b9",
+    "placeId":"ChIJyeuxhhmL5UcRude8OqhGy_w",
+    "mainEmail":"maison.la.papote@gmail.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Asian sky",
+    "address":"9 Rue le Valentin, 77120 Coulommiers, France",
+    "website":"http:\/\/asiansky.fr\/",
+    "phone":"+33 1 64 20 40 61",
+    "latitude":48.8125425,
+    "longitude":3.0829707,
+    "rating":4.6,
+    "reviews":228.0,
+    "type":"Japanese restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPzLuQFnPixDtDmkc3UL7FKAPt0YQoS4Be4K8qw=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "No-contact delivery",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":9.0,
+    "dataId":"0x47e8b1fa99426761:0xd5a56e62055123dd",
+    "placeId":"ChIJYWdCmfqx6EcR3SNRBWJupdU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"O'bokit by mcy food",
+    "address":"8 Rue du Grand Morin, 77120 Coulommiers, France",
+    "website":"https:\/\/www.facebook.com\/share\/15jinbrz3A\/",
+    "phone":"+33 1 64 03 62 01",
+    "latitude":48.8050771,
+    "longitude":3.0942637,
+    "rating":4.3,
+    "reviews":155.0,
+    "type":"Fast food restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSymgHYizxEKcUc7DEalxrQ3UWhRyKgF2Cxss3wyyiaCbeJJVAeJ0ri9qNSiYBkmhFkSYUectZSEC00_szvCeLlZokC1LhjlQ6y_O527DtEVSHivFZGZu2-u20sPbeLAa0DaEwLcfOdrzVVD=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":23.0,
+    "dataId":"0x47e8b7006c3f2dcb:0xd6d036ea91953513",
+    "placeId":"ChIJyy0_bAC36EcREzWVkeo20NY",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"DéTour",
+    "address":"18 Rue Saint-Barthélémy, 77000 Melun, France",
+    "website":"https:\/\/detour-bistroludique.com\/",
+    "phone":"+33 1 64 10 82 45",
+    "latitude":48.5412781,
+    "longitude":2.6567483,
+    "rating":4.9,
+    "reviews":413.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipPGxm6sgtrHIY5WNeLjdqGOFrSqXYi4bvRIlbFZ=w122-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":11.0,
+    "dataId":"0x47e5fbe336503bcb:0xa40afebada51fc20",
+    "placeId":"ChIJyztQNuP75UcRIPxR2rr-CqQ",
+    "mainEmail":"detour@detour-bistroludique.com",
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Restaurant AUBERGE DE LA TOURELLE",
+    "address":"1 Rue de Melun, 77220 Tournan-en-Brie, France",
+    "website":"https:\/\/auberge-de-la-tourelle.fr\/",
+    "phone":"+33 1 64 06 86 69",
+    "latitude":48.7381127,
+    "longitude":2.7706047,
+    "rating":4.6,
+    "reviews":887.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSzwOWLnmIis8NuQPeHiuseKHLmBTtuNF3WqKTRW0rpZWpoqZM54Iztpn34S1Bdh_CbvPBtUWvnD4OeWUOTP8pvpbq5IuQ8wt4g5hdsb-uLAdqW19UBFlayOIhirP7CdrHqI90OZ=w138-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Dine-in",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":31.0,
+    "dataId":"0x47e601aa17755e67:0xb59312eb7bb432af",
+    "placeId":"ChIJZ151F6oB5kcRrzK0e-sSk7U",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"La Table De Dimitri",
+    "address":"9 Rue Jacques Amyot, 77000 Melun, France",
+    "website":"http:\/\/www.latablededimitri.fr\/",
+    "phone":"+33 1 64 09 42 16",
+    "latitude":48.5383571,
+    "longitude":2.658323,
+    "rating":4.7,
+    "reviews":456.0,
+    "type":"Restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwRn7l_LQ1MO5QTgoirdrBQqRzrBlQETkk0dIs5EfBGOBm8BGSPdzbsizG1mIBARfXQVH0v_X-sH0Wby4T9pxvMKXzIhuqMCPzWYT4DUjHd-tJ_Ag-APNXK6eJYQrvZcHdkWOwW=w204-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Dine-in",
+      "Delivery",
+      "Takeout"
+    ],
+    "keyword":[
+      "zhejiang restaurant in Melun",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":17.0,
+    "dataId":"0x47e5fa63543c8867:0x81929fd1a99fd405",
+    "placeId":"ChIJZ4g8VGP65UcRBdSfqdGfkoE",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Happiness'pizza",
+    "address":"37 Av. du Général de Gaulle, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/happinesspizza.fr\/",
+    "phone":"+33 1 64 51 69 60",
+    "latitude":48.706642,
+    "longitude":2.8676259,
+    "rating":4.6,
+    "reviews":108.0,
+    "type":"Pizza restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSxGfJANYrqTTDpI-yAHev9ghUuTS8N8EqIvEzE8WV1cSt7QDtsOVMZvqjgoLsMJL6vq4ffi7EHC-alzQ5MkcWfhoAf7MqXrBGrOinysyLotgiuY6CkjBvb_K2xjyGzVpaby_KXkUM_bD4dg=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Delivery",
+      "Drive-through",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":13.0,
+    "dataId":"0x47e8abba55c1bfcf:0xcd98819d5d699c0c",
+    "placeId":"ChIJz7_BVbqr6EcRDJxpXZ2BmM0",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Oncle Scott's Coulommiers",
+    "address":"Rue des Longs Sillons, 77120 Coulommiers, France",
+    "website":"http:\/\/www.oncle-scott.com\/",
+    "phone":"+33 1 70 35 45 93",
+    "latitude":48.804841,
+    "longitude":3.100501,
+    "rating":4.3,
+    "reviews":2819.0,
+    "type":"American restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwcZk4_9M9ZDp3REyWeqmFfF59unHmOlYXXxqTDP7JSSZZuTl64IkRMv9GKYksT3c9IOqOw8DxHwaTBk_LF8RQBIZgCed_ZrRYAHCLyNjiZTsSbGdZNKIK-C0OrpRKdrE_c0qs=w80-h106-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "hungarian restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":2.0,
+    "dataId":"0x47e8b0cdc9d3b4cd:0xf542c129579de10a",
+    "placeId":"ChIJzbTTyc2w6EcRCuGdVynBQvU",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"ROYAL COULOMMIERS",
+    "address":"16 Pl. du Marché, 77120 Coulommiers, France",
+    "website":"https:\/\/www.ubereats.com\/",
+    "phone":"+33 1 64 20 21 55",
+    "latitude":48.8144737,
+    "longitude":3.0846393,
+    "rating":3.6,
+    "reviews":127.0,
+    "type":"Chinese restaurant",
+    "price":null,
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/p\/AF1QipMzmoJcNNm3njQ0nME9_-oXHdittNtG73YIxn1X=w163-h92-k-no",
+    "description":null,
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+    ],
+    "keyword":[
+      "restaurant in Coulommiers",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":35.0,
+    "dataId":"0x47e8b0cb9bbdcb65:0x8f5b5938cbb16266",
+    "placeId":"ChIJZcu9m8uw6EcRZmKxyzhZW48",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  },
+  {
+    "title":"Le Kiosque à Pizzas",
+    "address":"108 Rue Bertaux, 77610 Fontenay-Trésigny, France",
+    "website":"https:\/\/www.le-kiosque-a-pizzas.com\/commander-pizza-fontenay-tresigny--222",
+    "phone":"+33 1 64 07 63 46",
+    "latitude":48.7117179,
+    "longitude":2.856506,
+    "rating":4.3,
+    "reviews":145.0,
+    "type":"Pizza restaurant",
+    "price":"$$",
+    "thumbnail":"https:\/\/lh3.googleusercontent.com\/gps-cs-s\/AG0ilSwIQpHw1FczcCK8KEZLw9ZW5vh-4S0eT8XSu6CziWFvRAc8IB2Pl_xAoM5k9HS7NbWLZ_WeurCfueRY8DL14hpb_93On-l85Qai2Sgf5MdMeAQ_v6tSEOaNORggpTvVmlYBHyw=w80-h142-k-no",
+    "description":"Pizzeria offering take-out options. Snug fast-food kiosk featuring classic & original artisanal take-out pizza recipes.",
+    "openState":null,
+    "serviceOptions":[
+      "Outdoor seating",
+      "Takeout",
+      "Delivery"
+    ],
+    "keyword":[
+      "restaurant in Fontenay-Trésigny",
+      "Île-de-France",
+      "FR"
+    ],
+    "googleMapsRank":29.0,
+    "dataId":"0x47e8ab1b712a9af9:0xb0f6410606587942",
+    "placeId":"ChIJ-ZoqcRur6EcRQnlYBgZB9rA",
+    "mainEmail":null,
+    "otherEmails":[
+
+    ]
+  }
+]

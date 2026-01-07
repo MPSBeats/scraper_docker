@@ -14,7 +14,7 @@ Cette API REST recense les restaurants en Île-de-France depuis un CSV, avec opt
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/Drx93/orium_agence_scrapper.git
+git clone https://github.com/MPSBeats/scraper_docker.git
 cd orium_agence_scrapper
 ````
 
@@ -119,7 +119,43 @@ cd client
 npm run preview
 ```
 
+
 ---
+
+## Déploiement avec Docker
+
+Ce projet est entièrement conteneurisé. Vous pouvez lancer toute la stack (Frontend + Backend + Bases de données) d'un seul coup.
+
+### Prérequis
+- [Docker](https://www.docker.com/products/docker-desktop) installé.
+
+### Architecture
+
+```mermaid
+graph TD
+    User((Utilisateur))
+    Client[Conteneur Frontend\n(Nginx + React)\nPort 8080]
+    Backend[Conteneur Backend\n(Node.js API)\nPort 3000]
+    Postgres[(Conteneur PostgreSQL)]
+    Mongo[(Conteneur MongoDB)]
+    
+    User -->|HTTP| Client
+    Client -->|HTTP / API| Backend
+    Backend -->|TCP 5432| Postgres
+    Backend -->|TCP 27017| Mongo
+```
+
+### Lancement rapide
+
+1. **Construire et démarrer les conteneurs** :
+   ```bash
+   docker-compose up --build
+   ```
+
+2. **Accéder à l'application** :
+   - **Frontend** : http://localhost:8080
+   - **Backend API** : http://localhost:3000
+   - **Documentation API** : http://localhost:3000/api-docs
 
 ## Structure du projet
 

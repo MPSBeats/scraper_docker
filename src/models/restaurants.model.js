@@ -27,7 +27,7 @@ const RestaurantSchema = new Schema({
     placeId: {type: String, required: true},
     mainEmail: {type: String},
     otherEmails: {type: [String]}
-}, { collection: 'orium_agence_scrapper_nosql' });
+}, { collection: 'restaurants' });
 
 module.exports = mongoose.models.Restaurant || mongoose.model('Restaurant', RestaurantSchema);
 
