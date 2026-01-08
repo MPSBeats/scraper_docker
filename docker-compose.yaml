@@ -2,9 +2,10 @@ services:
   # Service Backend (API)
   backend:
     build: .
-    container_name: orium_backend
+    # container_name: orium_backend # Removed for scaling support
     ports:
-      - "${PORT:-3000}:3000"
+      #- "${PORT:-3000}:3000" # Commented out to allow scaling
+      - "3000" # Expose port 3000 to ephemeral host ports
     env_file: .env
     environment:
       - PORT=${PORT:-3000}
@@ -19,6 +20,11 @@ services:
         condition: service_healthy
     networks:
       - app-network
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 512M
 
   # Service Frontend
   client:
