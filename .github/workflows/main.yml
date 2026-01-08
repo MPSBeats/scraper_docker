@@ -5,6 +5,7 @@ on: push
 jobs:
   test-backend:
     runs-on: ubuntu-latest
+    
     services:
       postgres:
         image: postgres:15-alpine
@@ -28,14 +29,12 @@ jobs:
       with:
         node-version: '18.x'
         cache: 'npm'
-        cache-dependency-path: scraper_docker/package-lock.json
+        cache-dependency-path: package-lock.json
 
     - name: Install dependencies
-      working-directory: ./scraper_docker
       run: npm ci
 
     - name: Run tests
-      working-directory: ./scraper_docker
       env:
         PORT: 3000
         DATABASE_URL: postgres://postgres:password@localhost:5432/orium_agence_scrapper_sql_test
@@ -57,15 +56,15 @@ jobs:
     - name: Build Backend Docker Image
       uses: docker/build-push-action@v5
       with:
-        context: ./scraper_docker
-        file: ./scraper_docker/Dockerfile
+        context: .
+        file: ./Dockerfile
         push: false
 
     - name: Build Frontend Docker Image
       uses: docker/build-push-action@v5
       with:
-        context: ./scraper_docker/client
-        file: ./scraper_docker/client/Dockerfile
+        context: ./client
+        file: ./client/Dockerfile
         build-args: |
           VITE_API_URL=/api
         push: false
