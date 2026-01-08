@@ -44,6 +44,11 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
+    - name: Initialize PostgreSQL schema
+      env:
+        PGPASSWORD: password
+      run: psql -h localhost -U postgres -d orium_agence_scrapper_sql_test -f structure-bdd/bdd_sql.sql
+
     - name: Run tests
       env:
         PORT: 3000
