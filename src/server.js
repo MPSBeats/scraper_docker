@@ -54,6 +54,48 @@ app.get("/api/status", (req, res) => {
 	res.json({ status: "ok", time: new Date().toISOString() });
 });
 
+// Health check endpoint for Kubernetes probes
+app.get("/health", async (req, res) => {
+	try {
+		// Vérification de base : l'application répond
+		const healthStatus = {
+			status: "healthy",
+			timestamp: new Date().toISOString(),
+			uptime: process.uptime(),
+			checks: {}
+		};
+
+		// Vérification optionnelle de la connexion PostgreSQL
+		try {
+			const pgOk = await db.testConnection();
+			healthStatus.checks.postgres = pgOk ? "ok" : "unavailable";
+		} catch (err) {
+			healthStatus.checks.postgres = "error";
+		}
+
+		// Vérification optionnelle de la connexion MongoDB
+		try {
+			if (mongoose.connection.readyState === 1) {
+				healthStatus.checks.mongodb = "ok";
+			} else {
+				healthStatus.checks.mongodb = "unavailable";
+			}
+		} catch (err) {
+			healthStatus.checks.mongodb = "error";
+		}
+
+		// Retourner 200 si l'application est en vie (même si les DBs sont down)
+		res.status(200).json(healthStatus);
+	} catch (err) {
+		// En cas d'erreur critique, retourner 500
+		res.status(500).json({ 
+			status: "unhealthy", 
+			error: err.message,
+			timestamp: new Date().toISOString()
+		});
+	}
+});
+
 // 404
 app.use((req, res) => res.status(404).json({ error: "Route inconnue" }));
 

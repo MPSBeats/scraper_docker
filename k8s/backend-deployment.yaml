@@ -1,0 +1,96 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-deployment
+  namespace: restaurant-api
+  labels:
+    app: backend
+spec:
+  replicas: 2  # Nombre initial de replicas
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1        # Maximum 1 pod supplémentaire pendant l'update
+      maxUnavailable: 0  # Aucun pod ne peut être indisponible (zero downtime)
+  selector:
+    matchLabels:
+      app: backend
+  template:
+    metadata:
+      labels:
+        app: backend
+    spec:
+      containers:
+      - name: backend
+        image: orium_backend:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 3000
+          name: http
+        env:
+        # Variables depuis ConfigMap
+        - name: PORT
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: PORT
+        - name: CORS_ALLOW_ALL
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: CORS_ALLOW_ALL
+        - name: DATABASE_URL
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: DATABASE_URL
+        - name: MONGO_URI
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: MONGO_URI
+        # Variables depuis Secret
+        - name: JWT_SECRET
+          valueFrom:
+            secretKeyRef:
+              name: app-secrets
+              key: JWT_SECRET
+        - name: POSTGRES_USER
+          valueFrom:
+            secretKeyRef:
+              name: app-secrets
+              key: POSTGRES_USER
+        - name: POSTGRES_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: app-secrets
+              key: POSTGRES_PASSWORD
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "250m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+        # Liveness Probe: Vérifie si l'application est vivante
+        # Si échec → Kubernetes redémarre le container
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 3000
+          initialDelaySeconds: 30   # Attendre 30s après le démarrage
+          periodSeconds: 10         # Vérifier toutes les 10s
+          timeoutSeconds: 5         # Timeout après 5s
+          failureThreshold: 3       # Redémarrer après 3 échecs consécutifs
+          successThreshold: 1       # 1 succès pour être considéré sain
+        # Readiness Probe: Vérifie si l'application est prête à recevoir du trafic
+        # Si échec → Pod retiré du Service (ne reçoit pas de requêtes)
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 3000
+          initialDelaySeconds: 5    # Vérifier rapidement après le démarrage
+          periodSeconds: 5          # Vérifier toutes les 5s
+          timeoutSeconds: 3         # Timeout après 3s
+          failureThreshold: 3       # Retirer du service après 3 échecs
+          successThreshold: 1       # 1 succès pour être prêt

@@ -1,0 +1,44 @@
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: backend-hpa
+  namespace: restaurant-api
+  labels:
+    app: backend
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: backend-deployment
+  minReplicas: 2     # Minimum 2 pods (haute disponibilité)
+  maxReplicas: 10    # Maximum 10 pods
+  metrics:
+  - type: Resource
+    resource:
+      name: cpu
+      target:
+        type: Utilization
+        averageUtilization: 70  # Scale quand CPU moyen > 70%
+  - type: Resource
+    resource:
+      name: memory
+      target:
+        type: Utilization
+        averageUtilization: 80  # Scale quand Memory moyenne > 80%
+  behavior:
+    scaleUp:
+      stabilizationWindowSeconds: 0  # Pas de délai pour scale up
+      policies:
+      - type: Percent
+        value: 100  # Doubler le nombre de pods
+        periodSeconds: 15
+      - type: Pods
+        value: 2    # Ou ajouter 2 pods
+        periodSeconds: 15
+      selectPolicy: Max  # Prendre la plus grande valeur
+    scaleDown:
+      stabilizationWindowSeconds: 300  # Attendre 5 min avant de scale down
+      policies:
+      - type: Percent
+        value: 50   # Réduire de 50%
+        periodSeconds: 60

@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+  namespace: restaurant-api
+data:
+  # Application Configuration
+  PORT: "3000"
+  CORS_ALLOW_ALL: "true"
+  
+  # Database URLs (using Kubernetes service names)
+  DATABASE_URL: "postgresql://postgres:5432/orium_agence_scrapper_sql"
+  MONGO_URI: "mongodb://mongo:27017/orium_agence_scrapper_nosql"
+  
+  # PostgreSQL Database Name
+  POSTGRES_DB: "orium_agence_scrapper_sql"
